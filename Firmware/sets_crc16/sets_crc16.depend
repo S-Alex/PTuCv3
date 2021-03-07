@@ -1,0 +1,188 @@
+# depslib dependency file v1.0
+1429305652 source:e:\s_alex\sa_project\sets_crc16\main.c
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+
+1399659555 e:\s_alex\sa_project\sets_crc16\types.h
+
+1432851028 source:e:\s_alex\sa_project\teploecoresurs\agriatis_p20\firmware\sets_crc16\sets_crc16.c
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+	"../PTC/Sets.h"
+	"../PTC/Sets_c.h"
+
+1430940429 e:\s_alex\sa_project\teploecoresurs\agriatis_p20\firmware\sets_crc16\types.h
+
+1432846674 e:\s_alex\sa_project\teploecoresurs\agriatis_p20\firmware\ptc\sets.h
+	"../sets_crc16/CRC16_for_set.h "
+
+1430940888 e:\s_alex\sa_project\teploecoresurs\agriatis_p20\firmware\ptc\sets.c
+	"Sets.h"
+
+1430141556 e:\s_alex\sa_project\teploecoresurs\agriatis_p20\firmware\ptc\main.h
+	<h:\avr\include\stdio.h>
+	<h:\avr\include\stdlib.h>
+	<h:\avr\include\time.h>
+	<h:\avr\include\avr\eeprom.h>
+	"RTOSA\RTOSA.h"
+	"tasks.h"
+	"HW_def.h"
+	"lib/PWM_AC.h"
+	"lib/LedDin.h"
+	"lib/ADC.h"
+	"lib/LCD_uni.h"
+	"lib/SPI.h"
+	"lib/RTC.h"
+	"lib/EnCoder.h"
+	"lib/MenuHAL.h"
+	"Menu.h"
+	"control.h"
+	"Data_Flash.h"
+	"lib/xitoa.h"
+	"version.h"
+	"Sets.h"
+
+1382199040 h:\avr\include\stdio.h
+	<inttypes.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+
+1382199040 h:\avr\include\stdlib.h
+	<stddef.h>
+
+1382199040 h:\avr\include\time.h
+	<inttypes.h>
+	<stdlib.h>
+
+1382199038 h:\avr\include\avr\eeprom.h
+	<avr/io.h>
+	<stddef.h>
+	<stdint.h>
+
+1430140693 e:\s_alex\sa_project\teploecoresurs\agriatis_p20\firmware\ptc\rtosa\rtosa.h
+	<avr/io.h>
+	<stdlib.h>
+	<avr/interrupt.h>
+	<util/atomic.h>
+	"types.h"
+	"../MacroSA.h"
+	"../HW_def.h"
+	"TimerCntrs.h"
+
+1399659555 e:\s_alex\sa_project\teploecoresurs\agriatis_p20\firmware\ptc\rtosa\types.h
+
+1425608844 e:\s_alex\sa_project\teploecoresurs\agriatis_p20\firmware\ptc\macrosa.h
+	<avr\builtins.h>
+
+1427308094 e:\s_alex\sa_project\teploecoresurs\agriatis_p20\firmware\ptc\hw_def.h
+	"RTOSA/types.h"
+
+1427415381 e:\s_alex\sa_project\teploecoresurs\agriatis_p20\firmware\ptc\rtosa\timercntrs.h
+	"..\MacroSA.h"
+
+1427326039 e:\s_alex\sa_project\teploecoresurs\agriatis_p20\firmware\ptc\tasks.h
+	"main.h"
+
+1428530834 e:\s_alex\sa_project\teploecoresurs\agriatis_p20\firmware\ptc\lib\pwm_ac.h
+	<inttypes.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<avr/eeprom.h>
+	<stdlib.h>
+	<util/atomic.h>
+	"control.h"
+
+1413319649 e:\s_alex\sa_project\teploecoresurs\agriatis_p20\firmware\ptc\lib\leddin.h
+	<avr/io.h>
+	"RTOSA/types.h"
+	"MacroSA.h"
+	"EnCoder.h"
+
+1427274529 e:\s_alex\sa_project\teploecoresurs\agriatis_p20\firmware\ptc\lib\encoder.h
+	"RTOSA\RTOSA.h"
+
+1427458303 e:\s_alex\sa_project\teploecoresurs\agriatis_p20\firmware\ptc\lib\adc.h
+	<avr/io.h>
+
+1427449524 e:\s_alex\sa_project\teploecoresurs\agriatis_p20\firmware\ptc\lib\lcd_uni.h
+	"MacroSA.h"
+
+1421619301 e:\s_alex\sa_project\teploecoresurs\agriatis_p20\firmware\ptc\lib\spi.h
+	"..\RTOSA\types.h"
+
+1430140290 e:\s_alex\sa_project\teploecoresurs\agriatis_p20\firmware\ptc\lib\rtc.h
+	"main.h"
+	"DS1302_SA.h"
+	"bcd.h"
+
+1427267735 e:\s_alex\sa_project\teploecoresurs\agriatis_p20\firmware\ptc\lib\ds1302_sa.h
+	"../HW_def.h"
+
+1420752841 e:\s_alex\sa_project\teploecoresurs\agriatis_p20\firmware\ptc\lib\bcd.h
+
+1430032567 e:\s_alex\sa_project\teploecoresurs\agriatis_p20\firmware\ptc\lib\menuhal.h
+	"main.h"
+
+1425572612 e:\s_alex\sa_project\teploecoresurs\agriatis_p20\firmware\ptc\menu.h
+	"main.h"
+
+1429308080 e:\s_alex\sa_project\teploecoresurs\agriatis_p20\firmware\ptc\control.h
+
+1425594247 e:\s_alex\sa_project\teploecoresurs\agriatis_p20\firmware\ptc\data_flash.h
+
+1421097062 e:\s_alex\sa_project\teploecoresurs\agriatis_p20\firmware\ptc\lib\xitoa.h
+	<inttypes.h>
+
+1430940134 e:\s_alex\sa_project\teploecoresurs\agriatis_p20\firmware\ptc\version.h
+
+1432837133 e:\s_alex\sa_project\teploecoresurs\agriatis_p20\firmware\ptc\sets_c.h
+	"Sets.h"
+
+1445476802 source:e:\s_alex\sa_project\teploecoresurs\agriatisv2\firmware\sets_crc16\sets_crc16.c
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+	"../A_PTC/Sets.h"
+	"../A_PTC/Sets_c.h"
+
+1430936829 e:\s_alex\sa_project\teploecoresurs\agriatisv2\firmware\sets_crc16\types.h
+
+1452105392 e:\s_alex\sa_project\teploecoresurs\agriatisv2\firmware\a_ptc\sets.h
+	"../sets_crc16/CRC16_for_set.h "
+
+1454779779 e:\s_alex\sa_project\teploecoresurs\agriatisv2\firmware\a_ptc\sets_c.h
+	"Sets.h"
+
+1459370471 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\sets_crc16\sets_crc16.c
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+	"../PTuC_FMW/Sets.h"
+	"../PTuC_FMW/Sets_c.h"
+
+1430940429 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\sets_crc16\types.h
+
+1461094496 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\sets.h
+	"../sets_crc16/CRC16_for_set.h "
+
+1461094470 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\sets_c.h
+	"Sets.h"
+
+1465120739 source:e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\sets_crc16\sets_crc16.c
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+	"../PTuCv2_FMW/Sets.h"
+	"../PTuCv2_FMW/Sets_c.h"
+
+1430940429 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\sets_crc16\types.h
+
+1466256155 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\sets.h
+	"../sets_crc16/CRC16_for_set.h "
+
+1466256517 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\sets_c.h
+	"Sets.h"
+

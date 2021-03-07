@@ -1,0 +1,77 @@
+<html>
+<head>
+<title>PelletsTorchMicroControlv3 build log</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></head>
+<body>
+<tt>
+Build started on: <u>26-06-2016 at 00:56.05</u><br />
+Build ended on: <u>26-06-2016 at 00:56.16</u><p />
+avr-g++.exe --version<br />
+avr-g++.exe (AVR_8_bit_GNU_Toolchain_3.5.0_1662) 4.9.2<br />
+Copyright (C) 2014 Free Software Foundation, Inc.<br />
+This is free software; see the source for copying conditions.  There is NO<br />
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.<br />
+<b>-------------- Build: Release in PelletsTorchMicroControlv3 (compiler: GNU AVR GCC Compiler)---------------</b><br />
+avr-gcc.exe -Wall -mmcu=atmega32 -gdwarf-2 --std=gnu99 -fdata-sections -Wno-unused-local-typedefs -DF_CPU=8000000UL -Os -g  -IE:\S_Alex\SA_Project\TeploEcoResurs\PTuCv3\Firmware\PTuCv3_FMW -c control.c -o Release\obj\control.o<br />
+avr-gcc.exe -Wall -mmcu=atmega32 -gdwarf-2 --std=gnu99 -fdata-sections -Wno-unused-local-typedefs -DF_CPU=8000000UL -Os -g  -IE:\S_Alex\SA_Project\TeploEcoResurs\PTuCv3\Firmware\PTuCv3_FMW -c fuse_m8.c -o Release\obj\fuse_m8.o<br />
+avr-gcc.exe -Wall -mmcu=atmega32 -gdwarf-2 --std=gnu99 -fdata-sections -Wno-unused-local-typedefs -DF_CPU=8000000UL -Os -g  -Ilib -IE:\S_Alex\SA_Project\TeploEcoResurs\PTuCv3\Firmware\PTuCv3_FMW -c lib\ADC.c -o Release\obj\lib\ADC.o<br />
+avr-gcc.exe -Wall -mmcu=atmega32 -gdwarf-2 --std=gnu99 -fdata-sections -Wno-unused-local-typedefs -DF_CPU=8000000UL -Os -g  -Ilib -IE:\S_Alex\SA_Project\TeploEcoResurs\PTuCv3\Firmware\PTuCv3_FMW -c lib\bcd.c -o Release\obj\lib\bcd.o<br />
+avr-gcc.exe -Wall -mmcu=atmega32 -gdwarf-2 --std=gnu99 -fdata-sections -Wno-unused-local-typedefs -DF_CPU=8000000UL -Os -g  -Ilib -IE:\S_Alex\SA_Project\TeploEcoResurs\PTuCv3\Firmware\PTuCv3_FMW -c lib\KBD_3x1.c -o Release\obj\lib\KBD_3x1.o<br />
+avr-gcc.exe -Wall -mmcu=atmega32 -gdwarf-2 --std=gnu99 -fdata-sections -Wno-unused-local-typedefs -DF_CPU=8000000UL -Os -g  -Ilib -IE:\S_Alex\SA_Project\TeploEcoResurs\PTuCv3\Firmware\PTuCv3_FMW -c lib\LedDin.c -o Release\obj\lib\LedDin.o<br />
+avr-gcc.exe -Wall -mmcu=atmega32 -gdwarf-2 --std=gnu99 -fdata-sections -Wno-unused-local-typedefs -DF_CPU=8000000UL -Os -g  -Ilib -IE:\S_Alex\SA_Project\TeploEcoResurs\PTuCv3\Firmware\PTuCv3_FMW -c lib\MenuHAL.c -o Release\obj\lib\MenuHAL.o<br />
+lib\MenuHAL.c: In function 'fMenuInit':<br />
+<font color="#0000ff">lib\MenuHAL.c:295:16: warning: assignment from incompatible pointer type</font><br />
+   v_Menu.hMenu = (Ctrl_t**)&amp;Menu_Main;<br />
+                ^<br />
+lib\MenuHAL.c: In function 'fMenuGetHndCtrl':<br />
+<font color="#0000ff">lib\MenuHAL.c:352:9: warning: assignment from incompatible pointer type</font><br />
+   pCtrl = v_Menu.hMenu[v_Menu.C_Indx];<br />
+         ^<br />
+avr-gcc.exe -Wall -mmcu=atmega32 -gdwarf-2 --std=gnu99 -fdata-sections -Wno-unused-local-typedefs -DF_CPU=8000000UL -Os -g  -Ilib -IE:\S_Alex\SA_Project\TeploEcoResurs\PTuCv3\Firmware\PTuCv3_FMW -c lib\vPorts.c -o Release\obj\lib\vPorts.o<br />
+lib\vPorts.c: In function 'fOut_vPort':<br />
+<font color="#0000ff">lib\vPorts.c:104:12: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]</font><br />
+     tmp = *(u08*)pPORT;<br />
+            ^<br />
+<font color="#0000ff">lib\vPorts.c:112:6: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]</font><br />
+     *(u08*)pPORT = tmp;<br />
+      ^<br />
+lib\vPorts.c: In function 'fIn_vPort':<br />
+<font color="#0000ff">lib\vPorts.c:149:12: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]</font><br />
+     tmp = *(u08*)pPORT;<br />
+            ^<br />
+avr-g++.exe -Wall -mmcu=atmega32 -gdwarf-2 --std=gnu99 -fdata-sections -Wno-unused-local-typedefs -DF_CPU=8000000UL -Os -g  -Ilib -IE:\S_Alex\SA_Project\TeploEcoResurs\PTuCv3\Firmware\PTuCv3_FMW -c lib\xitoa.S -o Release\obj\lib\xitoa.o<br />
+avr-gcc.exe -Wall -mmcu=atmega32 -gdwarf-2 --std=gnu99 -fdata-sections -Wno-unused-local-typedefs -DF_CPU=8000000UL -Os -g  -IE:\S_Alex\SA_Project\TeploEcoResurs\PTuCv3\Firmware\PTuCv3_FMW -c main.c -o Release\obj\main.o<br />
+avr-gcc.exe -Wall -mmcu=atmega32 -gdwarf-2 --std=gnu99 -fdata-sections -Wno-unused-local-typedefs -DF_CPU=8000000UL -Os -g  -IE:\S_Alex\SA_Project\TeploEcoResurs\PTuCv3\Firmware\PTuCv3_FMW -c Menu.c -o Release\obj\Menu.o<br />
+avr-gcc.exe -Wall -mmcu=atmega32 -gdwarf-2 --std=gnu99 -fdata-sections -Wno-unused-local-typedefs -DF_CPU=8000000UL -Os -g  -IRTOSA -IE:\S_Alex\SA_Project\TeploEcoResurs\PTuCv3\Firmware\PTuCv3_FMW -c RTOSA\Debug.c -o Release\obj\RTOSA\Debug.o<br />
+avr-gcc.exe -Wall -mmcu=atmega32 -gdwarf-2 --std=gnu99 -fdata-sections -Wno-unused-local-typedefs -DF_CPU=8000000UL -Os -g  -IRTOSA -IE:\S_Alex\SA_Project\TeploEcoResurs\PTuCv3\Firmware\PTuCv3_FMW -c RTOSA\RTOSA.c -o Release\obj\RTOSA\RTOSA.o<br />
+avr-gcc.exe -Wall -mmcu=atmega32 -gdwarf-2 --std=gnu99 -fdata-sections -Wno-unused-local-typedefs -DF_CPU=8000000UL -Os -g  -IE:\S_Alex\SA_Project\TeploEcoResurs\PTuCv3\Firmware\PTuCv3_FMW -c Sets.c -o Release\obj\Sets.o<br />
+avr-gcc.exe -Wall -mmcu=atmega32 -gdwarf-2 --std=gnu99 -fdata-sections -Wno-unused-local-typedefs -DF_CPU=8000000UL -Os -g  -IE:\S_Alex\SA_Project\TeploEcoResurs\PTuCv3\Firmware\PTuCv3_FMW -c SN.c -o Release\obj\SN.o<br />
+avr-gcc.exe -Wall -mmcu=atmega32 -gdwarf-2 --std=gnu99 -fdata-sections -Wno-unused-local-typedefs -DF_CPU=8000000UL -Os -g  -IE:\S_Alex\SA_Project\TeploEcoResurs\PTuCv3\Firmware\PTuCv3_FMW -c Tasks.c -o Release\obj\Tasks.o<br />
+avr-gcc.exe  -o Release\bin\PTuCv2.elf Release\obj\control.o Release\obj\fuse_m8.o Release\obj\lib\ADC.o Release\obj\lib\bcd.o Release\obj\lib\KBD_3x1.o Release\obj\lib\LedDin.o Release\obj\lib\MenuHAL.o Release\obj\lib\vPorts.o Release\obj\lib\xitoa.o Release\obj\main.o Release\obj\Menu.o Release\obj\RTOSA\Debug.o Release\obj\RTOSA\RTOSA.o Release\obj\Sets.o Release\obj\SN.o Release\obj\Tasks.o  -mmcu=atmega32 -Wl,-Map=Release\bin\PTuCv2.elf.map,--cref -Wl,--gc-sections<br />
+Output file is Release\bin\PTuCv2.elf with size 75,69 KB<br />
+cmd /c "avr-objdump -h -S Release\bin\PTuCv2.elf &gt; Release\bin\PTuCv2.lss"<br />
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex Release\bin\PTuCv2.elf Release\bin\PTuCv2.hex<br />
+avr-objcopy --no-change-warnings -j .eeprom --change-section-lma .eeprom=0 -O ihex Release\bin\PTuCv2.elf Release\bin\PTuCv2.eep<br />
+avr-objcopy --no-change-warnings -j .lock --change-section-lma .lock=0 -O ihex Release\bin\PTuCv2.elf Release\bin\PTuCv2.lock<br />
+avr-objcopy --no-change-warnings -j .signature --change-section-lma .signature=0 -O ihex Release\bin\PTuCv2.elf Release\bin\PTuCv2.sig<br />
+avr-objcopy --no-change-warnings -j .fuse --change-section-lma .fuse=0 -O ihex Release\bin\PTuCv2.elf Release\bin\PTuCv2.fuse<br />
+srec_cat Release\bin\PTuCv2.fuse -Intel -crop 0x00 0x01 -offset  0x00 -O Release\bin\PTuCv2.lfs -Intel<br />
+srec_cat Release\bin\PTuCv2.fuse -Intel -crop 0x01 0x02 -offset -0x01 -O Release\bin\PTuCv2.hfs -Intel<br />
+avr-objcopy --no-change-warnings -j .eeprom --change-section-lma .eeprom=0 -O binary Release\bin\PTuCv2.elf Release\bin\PTuCv2.eep.bin<br />
+cmd /c "avr-nm -t d -S --size-sort Release\bin\PTuCv2.elf&gt; Release\bin\PTuCv2.elf.sz"<br />
+avr-size --mcu=atmega32 --format=avr Release\bin\PTuCv2.elf<br />
+AVR Memory Usage<br />
+----------------<br />
+Device: atmega32<br />
+Program:    8578 bytes (26.2% Full)<br />
+(.text + .data + .bootloader)<br />
+Data:        419 bytes (20.5% Full)<br />
+(.data + .bss + .noinit)<br />
+EEPROM:       30 bytes (2.9% Full)<br />
+(.eeprom)<br />
+avr-objcopy --no-change-warnings -j .eeprom --change-section-lma .eeprom=0 -O binary Release\bin\PTuCv2.elf Release\bin\PTuCv2.epr.bin<br />
+<font color="#0000ff">Process terminated with status 0 (0 minute(s), 11 second(s))</font><br />
+<font color="#0000ff">0 error(s), 5 warning(s) (0 minute(s), 11 second(s))</font><br />
+</tt>
+</body>
+</html>

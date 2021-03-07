@@ -1,0 +1,90 @@
+##Tools Plus Plugin (v0.6) Command Export##
+COMMAND#####################################
+name:Search Device stk500v2 avrdoper
+command line:avrdude -C avrdude.conf -c stk500v2 -P avrdoper -p m8 -q
+workdir:h:\bin
+wildcards:
+menu string:
+menu priority:0
+context menu string:
+context menu priority:100
+envvarset:
+mode (W,C,):W
+COMMAND#####################################
+name:Search Device stk500 COM5
+command line:avrdude -C avrdude.conf -c stk500 -P COM5 -p m16 -q
+workdir:h:\bin
+wildcards:
+menu string:
+menu priority:0
+context menu string:
+context menu priority:100
+envvarset:
+mode (W,C,):W
+COMMAND#####################################
+name:Erase Device stk500 COM5
+command line:avrdude -C avrdude.conf -c stk500 -P COM5 -p m16 -e -q
+workdir:h:\bin
+wildcards:
+menu string:
+menu priority:0
+context menu string:
+context menu priority:100
+envvarset:
+mode (W,C,):W
+COMMAND#####################################
+name:Flash mega8
+command line:avrdud -C avrdude.conf -c stk500v2 -P avrdoper -p m8 -U flash:w:"${PROJECT_DIR}$(TARGET_OUTPUT_DIR)$(TARGET_OUTPUT_BASENAME).hex":a -q
+workdir:h:\bin
+wildcards:
+menu string:
+menu priority:0
+context menu string:
+context menu priority:100
+envvarset:
+mode (W,C,):
+COMMAND#####################################
+name:Write Fuse mega8
+command line:avrdud -C avrdude.conf -c stk500v2 -P avrdoper -p m8 -U lfuse:w:"${PROJECT_DIR}$(TARGET_OUTPUT_DIR)$(TARGET_OUTPUT_BASENAME).lfs":a -U hfuse:w:"${PROJECT_DIR}$(TARGET_OUTPUT_DIR)$(TARGET_OUTPUT_BASENAME).hfs":a -q
+workdir:h:\bin
+wildcards:
+menu string:
+menu priority:0
+context menu string:
+context menu priority:100
+envvarset:
+mode (W,C,):
+COMMAND#####################################
+name:Write Lock mega8
+command line:avrdude -C avrdude.conf -c stk500v2 -P avrdoper -p m16 -U lock:w:"${PROJECT_DIR}$(TARGET_OUTPUT_DIR)$(TARGET_OUTPUT_BASENAME).lock":a -q
+workdir:h:\bin
+wildcards:
+menu string:
+menu priority:0
+context menu string:
+context menu priority:100
+envvarset:
+mode (W,C,):
+COMMAND#####################################
+name:Write Lock mega16 stk500 COM5
+command line:avrdude -C avrdude.conf -c stk500 -P COM5 -p m16 -U lock:w:"${PROJECT_DIR}$(TARGET_OUTPUT_DIR)$(TARGET_OUTPUT_BASENAME).lock":a -q
+workdir:h:\bin
+wildcards:
+menu string:
+menu priority:0
+context menu string:
+context menu priority:100
+envvarset:
+mode (W,C,):W
+
+COMMAND#####################################
+name:Write Fuse tiny461 stk500v2
+command line:avrdud -C avrdude.conf -c stk500v2 -P avrdoper -p m8 -U lfuse:w:"${PROJECT_DIR}$(TARGET_OUTPUT_DIR)$(TARGET_OUTPUT_BASENAME).lfs":a -U hfuse:w:"${PROJECT_DIR}$(TARGET_OUTPUT_DIR)$(TARGET_OUTPUT_BASENAME).hfs":a -U efuse:w:"${PROJECT_DIR}$(TARGET_OUTPUT_DIR)$(TARGET_OUTPUT_BASENAME).efs":a -q
+workdir:h:\bin
+wildcards:
+menu string:
+menu priority:0
+context menu string:
+context menu priority:100
+envvarset:
+mode (W,C,):

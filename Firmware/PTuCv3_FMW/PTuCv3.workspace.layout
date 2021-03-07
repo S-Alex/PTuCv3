@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveProject path="PTuCv3.cbp" />
+	<EditorTabsLayout layout="0a0af1b8576f75d90000628300000002=0;PelletsTorchMicroControlv3:control.c,1;PelletsTorchMicroControlv3:Menu.c,2;PelletsTorchMicroControlv3:main.h,3;PelletsTorchMicroControlv3:RTOSA\TimerCntrs.h,4;PelletsTorchMicroControlv3:lib\MenuHAL.c,5;PelletsTorchMicroControlv3:Tasks.c,6;PelletsTorchMicroControlv3:Tasks.h,7;PelletsTorchMicroControlv3:RTOSA\RTOSA.h,8;PelletsTorchMicroControlv3:lib\MenuHAL.h,9;PelletsTorchMicroControlv3:lib\KBD_3x1.c,10;PelletsTorchMicroControlv3:lib\KBD_3x1.h,11;PelletsTorchMicroControlv3:lib\LedDin.c,12;PelletsTorchMicroControlv3:main.c,*13;PelletsTorchMicroControlv3:HW_def.h@layout2|name=dummy;caption=;state=2098174;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=477;besth=230;minw=477;minh=230;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=0a0af1b8576f75d90000628300000002;caption=;state=2098172;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=202|" />
+</CodeBlocks_workspace_layout_file>

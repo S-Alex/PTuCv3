@@ -1,0 +1,1721 @@
+Archive member included to satisfy reference by file (symbol)
+
+h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+                              Release\obj\lib\bcd.o (__udivmodqi4)
+h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+                              Release\obj\control.o (__udivmodhi4)
+h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+                              Release\obj\control.o (__divmodsi4)
+h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+                              h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o) (__negsi2)
+h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                              h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o (exit)
+h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+                              Release\obj\control.o (__tablejump2__)
+h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+                              Release\obj\control.o (__do_copy_data)
+h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                              Release\obj\control.o (__do_clear_bss)
+h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+                              Release\obj\control.o (__umulhisi3)
+h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+                              Release\obj\control.o (__muluhisi3)
+h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+                              h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o) (__udivmodsi4)
+h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega32.a(eerd_block.o)
+                              Release\obj\Sets.o (eeprom_read_block)
+h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega32.a(eeupd_block.o)
+                              Release\obj\Sets.o (eeprom_update_block)
+h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega32.a(eeupd_byte.o)
+                              h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega32.a(eeupd_block.o) (eeprom_update_r18)
+
+Allocating common symbols
+Common symbol       size              file
+
+v_OLed              0x1               Release\obj\control.o
+TimerTaskID         0x1               Release\obj\control.o
+szParamVal_Buf      0x8               Release\obj\Menu.o
+vInType             0x2               Release\obj\main.o
+vSQ_State           0x1               Release\obj\control.o
+r_CntTimers         0x1               Release\obj\RTOSA\RTOSA.o
+TaskQueue           0x8               Release\obj\control.o
+T0_Reload           0x1               Release\obj\RTOSA\RTOSA.o
+v_KBD               0x5               Release\obj\lib\KBD_3x1.o
+vDinOff             0x1               Release\obj\lib\LedDin.o
+vSets               0x12              Release\obj\Sets.o
+r_RND               0x1               Release\obj\RTOSA\RTOSA.o
+Buff_ADC6           0x15              Release\obj\lib\ADC.o
+pszError            0x2               Release\obj\control.o
+v_LED3Buf           0x8               Release\obj\lib\MenuHAL.o
+Buff_ADC5           0x15              Release\obj\lib\ADC.o
+vLED_CA_CC          0x1               Release\obj\lib\LedDin.o
+Buff_ADC4           0x15              Release\obj\lib\ADC.o
+v_CntUnld           0x1               Release\obj\control.o
+flgTimerEdit        0x1               Release\obj\lib\MenuHAL.o
+v_cnt_FultTS2_Unload
+                    0x1               Release\obj\main.o
+v_Menu              0x8               Release\obj\lib\MenuHAL.o
+pszState            0x2               Release\obj\control.o
+v_ORele_Manual      0x1               Release\obj\control.o
+szParamName_Buf     0x8               Release\obj\Menu.o
+SQ1_Off_TaskID      0x1               Release\obj\control.o
+vRegParam           0xa               Release\obj\main.o
+MenuStk             0xc               Release\obj\control.o
+SQ1_On_TaskID       0x1               Release\obj\control.o
+pfDin_Out           0x2               Release\obj\lib\LedDin.o
+vStateNextTime      0x2               Release\obj\main.o
+TimersPool          0x20              Release\obj\control.o
+v_Param             0x7               Release\obj\control.o
+Buff_ADC0           0x15              Release\obj\lib\ADC.o
+r_TaskS             0x1               Release\obj\RTOSA\RTOSA.o
+v_Time              0x4               Release\obj\control.o
+MenuSP              0x1               Release\obj\control.o
+r_CntTask           0x1               Release\obj\RTOSA\RTOSA.o
+vOS_Tick            0x4               Release\obj\RTOSA\RTOSA.o
+Buff_ADC2           0x15              Release\obj\lib\ADC.o
+vSets_com           0xc               Release\obj\Sets.o
+vStateForWait       0x2               Release\obj\main.o
+rCRC8               0x1               Release\obj\control.o
+Buff_ADC1           0x15              Release\obj\lib\ADC.o
+Buff_ADC3           0x15              Release\obj\lib\ADC.o
+v_ORele             0x1               Release\obj\control.o
+Buff_ADC7           0x15              Release\obj\lib\ADC.o
+szFaultBuf          0x10              Release\obj\control.o
+v_OLed_Manual       0x1               Release\obj\control.o
+v_N_Unload          0x1               Release\obj\main.o
+vFlash              0x1               Release\obj\main.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+ .bss           0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+ .data          0x00000000        0x0 Release\obj\control.o
+ .bss           0x00000000        0x0 Release\obj\control.o
+ .progmem.data.cReleLedTest
+                0x00000000        0xf Release\obj\control.o
+ .progmem.data.szFaultTen
+                0x00000000        0x3 Release\obj\control.o
+ .progmem.data.szFaultCRC
+                0x00000000        0x3 Release\obj\control.o
+ .progmem.data.szState_H
+                0x00000000        0x3 Release\obj\control.o
+ .progmem.data.szState_P
+                0x00000000        0x3 Release\obj\control.o
+ .text          0x00000000        0x0 Release\obj\fuse_m8.o
+ .data          0x00000000        0x0 Release\obj\fuse_m8.o
+ .bss           0x00000000        0x0 Release\obj\fuse_m8.o
+ .data          0x00000000        0x0 Release\obj\lib\ADC.o
+ .bss           0x00000000        0x0 Release\obj\lib\ADC.o
+ .text          0x00000000       0x2c Release\obj\lib\bcd.o
+ .data          0x00000000        0x0 Release\obj\lib\bcd.o
+ .bss           0x00000000        0x0 Release\obj\lib\bcd.o
+ .debug_info    0x00000000       0x8c Release\obj\lib\bcd.o
+ .debug_abbrev  0x00000000       0x64 Release\obj\lib\bcd.o
+ .debug_loc     0x00000000       0x42 Release\obj\lib\bcd.o
+ .debug_aranges
+                0x00000000       0x20 Release\obj\lib\bcd.o
+ .debug_line    0x00000000       0x39 Release\obj\lib\bcd.o
+ .debug_str     0x00000000       0xd3 Release\obj\lib\bcd.o
+ .comment       0x00000000       0x31 Release\obj\lib\bcd.o
+ .debug_frame   0x00000000       0x34 Release\obj\lib\bcd.o
+ .data          0x00000000        0x0 Release\obj\lib\KBD_3x1.o
+ .bss           0x00000000        0x0 Release\obj\lib\KBD_3x1.o
+ .data          0x00000000        0x0 Release\obj\lib\LedDin.o
+ .bss           0x00000000        0x0 Release\obj\lib\LedDin.o
+ .data          0x00000000        0x0 Release\obj\lib\MenuHAL.o
+ .bss           0x00000000        0x0 Release\obj\lib\MenuHAL.o
+ .progmem.data.CUNUM_AutoRun
+                0x00000000        0xb Release\obj\lib\MenuHAL.o
+ .progmem.data.CUNUM_AutoRunsz
+                0x00000000        0x3 Release\obj\lib\MenuHAL.o
+ .progmem.data.CUNUM_T_TEN
+                0x00000000        0xb Release\obj\lib\MenuHAL.o
+ .progmem.data.CUNUM_T_TENsz
+                0x00000000        0x3 Release\obj\lib\MenuHAL.o
+ .data          0x00000000        0x0 Release\obj\lib\vPorts.o
+ .bss           0x00000000        0x0 Release\obj\lib\vPorts.o
+ .data          0x00000000        0x0 Release\obj\lib\xitoa.o
+ .data          0x00000000        0x0 Release\obj\main.o
+ .bss           0x00000000        0x0 Release\obj\main.o
+ .data          0x00000000        0x0 Release\obj\Menu.o
+ .bss           0x00000000        0x0 Release\obj\Menu.o
+ .progmem.data.szt
+                0x00000000        0x3 Release\obj\Menu.o
+ .text          0x00000000       0x1c Release\obj\RTOSA\Debug.o
+ .data          0x00000000        0x0 Release\obj\RTOSA\Debug.o
+ .bss           0x00000000        0x0 Release\obj\RTOSA\Debug.o
+ .debug_info    0x00000000      0x476 Release\obj\RTOSA\Debug.o
+ .debug_abbrev  0x00000000      0x10f Release\obj\RTOSA\Debug.o
+ .debug_aranges
+                0x00000000       0x20 Release\obj\RTOSA\Debug.o
+ .debug_line    0x00000000      0x1a2 Release\obj\RTOSA\Debug.o
+ .debug_str     0x00000000      0x351 Release\obj\RTOSA\Debug.o
+ .comment       0x00000000       0x31 Release\obj\RTOSA\Debug.o
+ .debug_frame   0x00000000       0x34 Release\obj\RTOSA\Debug.o
+ .data          0x00000000        0x0 Release\obj\RTOSA\RTOSA.o
+ .bss           0x00000000        0x0 Release\obj\RTOSA\RTOSA.o
+ .data          0x00000000        0x0 Release\obj\Sets.o
+ .bss           0x00000000        0x0 Release\obj\Sets.o
+ .text          0x00000000        0x0 Release\obj\SN.o
+ .data          0x00000000        0x0 Release\obj\SN.o
+ .bss           0x00000000        0x0 Release\obj\SN.o
+ .debug_line    0x00000000        0x0 Release\obj\SN.o
+ .debug_str     0x00000000       0xa1 Release\obj\SN.o
+ .comment       0x00000000       0x31 Release\obj\SN.o
+ .text          0x00000000        0x0 Release\obj\Tasks.o
+ .data          0x00000000        0x0 Release\obj\Tasks.o
+ .bss           0x00000000        0x0 Release\obj\Tasks.o
+ .text          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .data          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .bss           0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc   0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .data          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .data          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega32.a(eerd_block.o)
+ .data          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega32.a(eerd_block.o)
+ .bss           0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega32.a(eerd_block.o)
+ .text          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega32.a(eeupd_block.o)
+ .data          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega32.a(eeupd_block.o)
+ .bss           0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega32.a(eeupd_block.o)
+ .text          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega32.a(eeupd_byte.o)
+ .data          0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega32.a(eeupd_byte.o)
+ .bss           0x00000000        0x0 h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega32.a(eeupd_byte.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+LOAD Release\obj\control.o
+LOAD Release\obj\fuse_m8.o
+LOAD Release\obj\lib\ADC.o
+LOAD Release\obj\lib\bcd.o
+LOAD Release\obj\lib\KBD_3x1.o
+LOAD Release\obj\lib\LedDin.o
+LOAD Release\obj\lib\MenuHAL.o
+LOAD Release\obj\lib\vPorts.o
+LOAD Release\obj\lib\xitoa.o
+LOAD Release\obj\main.o
+LOAD Release\obj\Menu.o
+LOAD Release\obj\RTOSA\Debug.o
+LOAD Release\obj\RTOSA\RTOSA.o
+LOAD Release\obj\Sets.o
+LOAD Release\obj\SN.o
+LOAD Release\obj\Tasks.o
+START GROUP
+LOAD h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a
+LOAD h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+LOAD h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a
+LOAD h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega32.a
+END GROUP
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x216e
+ *(.vectors)
+ .vectors       0x00000000       0x54 h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table
+                0x00000054       0x2a Release\obj\control.o
+                0x0000007e                . = ALIGN (0x2)
+                0x0000007e                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000007e        0x0 linker stubs
+ *(.trampolines*)
+                0x0000007e                __trampolines_end = .
+ *(.progmem*)
+ .progmem.data.szFaultFuel
+                0x0000007e        0x3 Release\obj\control.o
+                0x0000007e                szFaultFuel
+ .progmem.data.szFaultCleaning
+                0x00000081        0x3 Release\obj\control.o
+                0x00000081                szFaultCleaning
+ .progmem.data.szFaultTS2
+                0x00000084        0x3 Release\obj\control.o
+                0x00000084                szFaultTS2
+ .progmem.data.szFaultCRCc
+                0x00000087        0x3 Release\obj\control.o
+                0x00000087                szFaultCRCc
+ .progmem.data.szFaultCRCs
+                0x0000008a        0x3 Release\obj\control.o
+                0x0000008a                szFaultCRCs
+ .progmem.data.szState_x
+                0x0000008d        0x3 Release\obj\control.o
+                0x0000008d                szState_x
+ .progmem.data.szState_D
+                0x00000090        0x3 Release\obj\control.o
+                0x00000090                szState_D
+ .progmem.data.szState_G
+                0x00000093        0x3 Release\obj\control.o
+                0x00000093                szState_G
+ .progmem.data.szState_B
+                0x00000096        0x3 Release\obj\control.o
+                0x00000096                szState_B
+ .progmem.data.szState_T
+                0x00000099        0x3 Release\obj\control.o
+                0x00000099                szState_T
+ .progmem.data.szState_U
+                0x0000009c        0x3 Release\obj\control.o
+                0x0000009c                szState_U
+ .progmem.data.szState_I
+                0x0000009f        0x3 Release\obj\control.o
+                0x0000009f                szState_I
+ .progmem.data.szState_L
+                0x000000a2        0x3 Release\obj\control.o
+                0x000000a2                szState_L
+ .progmem.data.v_ADC_Bufs
+                0x000000a5        0x6 Release\obj\lib\ADC.o
+                0x000000a5                v_ADC_Bufs
+ .progmem.data.v_ADC_List
+                0x000000ab        0x6 Release\obj\lib\ADC.o
+                0x000000ab                v_ADC_List
+ .progmem.data.Tab_7Seg
+                0x000000b1       0x10 Release\obj\lib\LedDin.o
+                0x000000b1                Tab_7Seg
+ .progmem.data.StrLED_Brn
+                0x000000c1        0x3 Release\obj\lib\MenuHAL.o
+                0x000000c1                StrLED_Brn
+ .progmem.data.StrLED_StP
+                0x000000c4        0x3 Release\obj\lib\MenuHAL.o
+                0x000000c4                StrLED_StP
+ .progmem.data.Menu_Main
+                0x000000c7       0x10 Release\obj\lib\MenuHAL.o
+                0x000000c7                Menu_Main
+ .progmem.data.CB_RunStop
+                0x000000d7        0xb Release\obj\lib\MenuHAL.o
+                0x000000d7                CB_RunStop
+ .progmem.data.CB_RunStopsz
+                0x000000e2        0x3 Release\obj\lib\MenuHAL.o
+                0x000000e2                CB_RunStopsz
+ .progmem.data.CUNUM_T_Ignition
+                0x000000e5        0xb Release\obj\lib\MenuHAL.o
+                0x000000e5                CUNUM_T_Ignition
+ .progmem.data.CUNUM_T_Ignitionsz
+                0x000000f0        0x3 Release\obj\lib\MenuHAL.o
+                0x000000f0                CUNUM_T_Ignitionsz
+ .progmem.data.CUNUM_N_Ignition
+                0x000000f3        0xb Release\obj\lib\MenuHAL.o
+                0x000000f3                CUNUM_N_Ignition
+ .progmem.data.CUNUM_N_Ignitionsz
+                0x000000fe        0x3 Release\obj\lib\MenuHAL.o
+                0x000000fe                CUNUM_N_Ignitionsz
+ .progmem.data.CUNUM_Temp1
+                0x00000101        0xb Release\obj\lib\MenuHAL.o
+                0x00000101                CUNUM_Temp1
+ .progmem.data.CUNUM_Temp1sz
+                0x0000010c        0x3 Release\obj\lib\MenuHAL.o
+                0x0000010c                CUNUM_Temp1sz
+ .progmem.data.CUNUM_N_Unload
+                0x0000010f        0xb Release\obj\lib\MenuHAL.o
+                0x0000010f                CUNUM_N_Unload
+ .progmem.data.CUNUM_N_Unloadsz
+                0x0000011a        0x3 Release\obj\lib\MenuHAL.o
+                0x0000011a                CUNUM_N_Unloadsz
+ .progmem.data.CUNUM_T_Pause
+                0x0000011d        0xb Release\obj\lib\MenuHAL.o
+                0x0000011d                CUNUM_T_Pause
+ .progmem.data.CUNUM_T_Pausesz
+                0x00000128        0x3 Release\obj\lib\MenuHAL.o
+                0x00000128                CUNUM_T_Pausesz
+ .progmem.data.CUNUM_Power
+                0x0000012b        0xb Release\obj\lib\MenuHAL.o
+                0x0000012b                CUNUM_Power
+ .progmem.data.CUNUM_Powersz
+                0x00000136        0x3 Release\obj\lib\MenuHAL.o
+                0x00000136                CUNUM_Powersz
+ .progmem.data.IncDecVal
+                0x00000139        0x3 Release\obj\lib\MenuHAL.o
+                0x00000139                IncDecVal
+ .progmem.data.vPort3
+                0x0000013c        0x7 Release\obj\lib\vPorts.o
+                0x0000013c                vPort3
+ .progmem.data.vPort2
+                0x00000143        0xd Release\obj\lib\vPorts.o
+                0x00000143                vPort2
+ .progmem.data.vPort1
+                0x00000150        0x7 Release\obj\lib\vPorts.o
+                0x00000150                vPort1
+ .progmem.data.vPort0
+                0x00000157       0x11 Release\obj\lib\vPorts.o
+                0x00000157                vPort0
+ .progmem.data.vBits
+                0x00000168        0x8 Release\obj\lib\vPorts.o
+                0x00000168                vBits
+ .progmem.data.fmt_3u
+                0x00000170        0x5 Release\obj\Menu.o
+                0x00000170                fmt_3u
+ .progmem.data.TaskProcs
+                0x00000175       0x2c Release\obj\Tasks.o
+                0x00000175                TaskProcs
+                0x000001a2                . = ALIGN (0x2)
+ *fill*         0x000001a1        0x1 
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000001a2                __ctors_start = .
+ *(.ctors)
+                0x000001a2                __ctors_end = .
+                0x000001a2                __dtors_start = .
+ *(.dtors)
+                0x000001a2                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000001a2        0x0 h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+                0x000001a2                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000001a2        0xc h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000001ae       0x16 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+                0x000001ae                __do_copy_data
+ .init4         0x000001c4       0x10 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                0x000001c4                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000001d4        0x8 h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+ *(.init9)
+ *(.text)
+ .text          0x000001dc        0x4 h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+                0x000001dc                __vector_12
+                0x000001dc                __bad_interrupt
+                0x000001dc                __vector_6
+                0x000001dc                __vector_3
+                0x000001dc                __vector_11
+                0x000001dc                __vector_13
+                0x000001dc                __vector_17
+                0x000001dc                __vector_19
+                0x000001dc                __vector_7
+                0x000001dc                __vector_5
+                0x000001dc                __vector_4
+                0x000001dc                __vector_9
+                0x000001dc                __vector_2
+                0x000001dc                __vector_15
+                0x000001dc                __vector_8
+                0x000001dc                __vector_14
+                0x000001dc                __vector_16
+                0x000001dc                __vector_18
+                0x000001dc                __vector_20
+ .text          0x000001e0      0xdba Release\obj\control.o
+                0x0000065c                __vector_1
+                0x00000670                fFaultIgnition
+                0x0000067e                fBuzSound
+                0x0000068e                fLed_Fault_On
+                0x00000690                fLed_Fault_Off
+                0x00000692                fSupply_On
+                0x00000694                fSupply_Off
+                0x00000696                fScrew_R_On
+                0x00000698                fScrew_L_On
+                0x0000069a                fGrate_On
+                0x000006bc                fClean_On
+                0x000006be                fTEN_On
+                0x000006c0                fFan_On
+                0x000006c2                fPump_On
+                0x000006c4                fWait_Time_2Next
+                0x000006d6                fAlarm_On
+                0x000006d8                fManual_Off
+                0x000006e2                fBunker_Load_TimeOut
+                0x0000072a                fTEN_AirOn
+                0x0000072c                fTEN_OnTimeLeft
+                0x0000072e                fFuelOn
+                0x00000736                f_Go2IGN_UNLOAD
+                0x00000760                fRunStop
+                0x0000081e                fReUnload_On
+                0x00000820                fUnload_Off
+                0x00000822                fGetTempLM335
+                0x0000084e                fGetTempPt100
+                0x0000087a                fGetADC_from_TempLM335
+                0x000008a4                f_Output
+                0x000008ca                f_Input
+                0x000008cc                fCntScrew
+                0x000008d8                f_FSM_Unload
+                0x000008ec                f_FSM_CleanScrew
+                0x00000900                f_FSM_Grate
+                0x000009a8                f_CheckTempr
+                0x000009c8                f_FSM_Alarm
+                0x00000a26                fBunker
+                0x00000aae                fOffAllRele
+                0x00000aba                fControl
+                0x00000f4e                fSQGet
+                0x00000f8a                fSQInit
+ .text          0x00000f9a      0x106 Release\obj\lib\ADC.o
+                0x00000f9a                fADCInit
+                0x00000fc6                CalcMid
+                0x00001020                fADC_Exe
+ .text          0x000010a0      0x122 Release\obj\lib\KBD_3x1.o
+                0x000010a0                fKBD_Init
+                0x000010ac                fKBD_Scan
+                0x000010ea                fKBD_Exe
+                0x00001174                fKBD_GetKey
+ .text          0x000011c2       0xda Release\obj\lib\LedDin.o
+                0x000011c2                fDin_Out
+                0x000011f0                fDin_Init
+                0x0000122e                fDin_Fresh
+                0x00001290                fB27S
+ .text          0x0000129c      0x3cc Release\obj\lib\MenuHAL.o
+                0x0000129c                fMenuSendMsg
+                0x000012aa                fMenuGetHndCtrl
+                0x000012f8                fMenuInit
+                0x0000135a                fMenuDraw_szItemMenu
+                0x00001380                fMenuDrawCtrl
+                0x00001432                fMenuDraw
+                0x00001436                fMenuNext
+                0x00001442                fMenuPrev
+                0x0000144e                fMenuSelect
+                0x00001492                fMenuDefProc
+                0x00001508                fMenuButtonProc
+                0x00001540                fMenuDefEditProc
+                0x00001596                fGetIncDecVal
+                0x000015ae                fMenuParamIncDec
+ .text          0x00001668       0xa0 Release\obj\lib\vPorts.o
+                0x00001668                fOut_vPort
+                0x000016bc                fIn_vPort
+ .text          0x00001708      0x1a6 Release\obj\lib\xitoa.o
+                0x00001708                xputc
+                0x0000171c                xputs
+                0x0000172a                xitoa
+                0x0000184e                xprintf
+                0x00001868                xsprintf
+ .text          0x000018ae       0x9a Release\obj\main.o
+                0x000018ae                fProgramm
+                0x000018b0                fIdle
+                0x000018c2                fFlash
+                0x000018d6                __vector_default
+                0x000018d8                fCRC16
+                0x0000191c                fBuzInit
+                0x00001924                fBuzOnTime
+                0x00001930                fBuzOn
+                0x00001936                fBuzOff
+                0x0000193c                fBuzer
+ .text          0x00001948      0x272 Release\obj\Menu.o
+                0x00001948                fASCII2_LED
+                0x0000198a                fPrint2LED
+                0x000019b8                fPrintParams
+                0x000019bc                fPrintState
+                0x00001a6c                fMenu
+ .text          0x00001bba      0x2a0 Release\obj\RTOSA\RTOSA.o
+                0x00001bba                krClearTaskQueue
+                0x00001bd2                krClearTimers
+                0x00001bf2                krProcessTaskQueue
+                0x00001c40                krCallTaskID
+                0x00001c54                krSendTask
+                0x00001c8a                krSetTimer
+                0x00001ce8                krTimerRun
+                0x00001d08                krGetTimer
+                0x00001d30                krClrTimer
+                0x00001d5a                krMemFill
+                0x00001d6a                krMemCopyR2R
+                0x00001d80                krMemCopyF2R
+                0x00001d92                krRand
+                0x00001da6                __vector_10
+ .text          0x00001e5a      0x12e Release\obj\Sets.o
+                0x00001e5a                f_Write_CRC_Block
+                0x00001ec6                fSetsRead
+                0x00001f34                fSetsWrite
+                0x00001f88                . = ALIGN (0x2)
+ *(.text.*)
+ .text.startup  0x00001f88       0x7e Release\obj\main.o
+                0x00001f88                main
+ .text.libgcc.div
+                0x00002006       0x18 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+                0x00002006                __udivmodqi4
+ .text.libgcc.div
+                0x0000201e       0x28 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+                0x0000201e                __udivmodhi4
+ .text.libgcc.div
+                0x00002046       0x2e h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+                0x00002046                __divmodsi4
+ .text.libgcc.div
+                0x00002074       0x10 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+                0x00002074                __negsi2
+ .text.libgcc   0x00002084        0xc h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+                0x00002084                __tablejump2__
+ .text.libgcc.mul
+                0x00002090       0x1e h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+                0x00002090                __umulhisi3
+ .text.libgcc.mul
+                0x000020ae       0x16 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+                0x000020ae                __muluhisi3
+ .text.libgcc.div
+                0x000020c4       0x44 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+                0x000020c4                __udivmodsi4
+ .text.avr-libc
+                0x00002108       0x20 h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega32.a(eerd_block.o)
+                0x00002108                eeprom_read_block
+                0x0000210c                eeprom_read_blraw
+ .text.avr-libc
+                0x00002128       0x20 h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega32.a(eeupd_block.o)
+                0x00002128                eeprom_update_block
+ .text.avr-libc
+                0x00002148       0x22 h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega32.a(eeupd_byte.o)
+                0x00002148                eeprom_update_byte
+                0x0000214a                eeprom_update_r18
+                0x0000216a                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000216a        0x0 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                0x0000216a                _exit
+                0x0000216a                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000216a        0x4 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000216e                _etext = .
+
+.data           0x00800060       0x14 load address 0x0000216e
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.FSM_Grate.2890
+                0x00800060        0x2 Release\obj\control.o
+ .data.FSM_Alarm.2882
+                0x00800062        0x2 Release\obj\control.o
+ .data.FSM_CleanScrew.2866
+                0x00800064        0x2 Release\obj\control.o
+ .data.vDinam   0x00800066        0x5 Release\obj\lib\LedDin.o
+                0x00800066                vDinam
+ .data.vPorts   0x0080006b        0x8 Release\obj\lib\vPorts.o
+                0x0080006b                vPorts
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800074                . = ALIGN (0x2)
+ *fill*         0x00800073        0x1 
+                0x00800074                _edata = .
+                0x00800074                PROVIDE (__data_end, .)
+
+.bss            0x00800074      0x18f
+                0x00800074                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800074        0x2 Release\obj\lib\xitoa.o
+                0x00800074                xfunc_out
+ *(.bss*)
+ .bss.vCW_TimeOut.2868
+                0x00800076        0x4 Release\obj\control.o
+ .bss.v_Pause_Timer.2869
+                0x0080007a        0x4 Release\obj\control.o
+ .bss.vCCW_Time.2867
+                0x0080007e        0x4 Release\obj\control.o
+ .bss.N_Unload_Old.2864
+                0x00800082        0x1 Release\obj\control.o
+ .bss.cntClean.2865
+                0x00800083        0x1 Release\obj\control.o
+ .bss.N_Unload_Old.2852
+                0x00800084        0x1 Release\obj\control.o
+ .bss.vUnloadTimeOut.2851
+                0x00800085        0x4 Release\obj\control.o
+ .bss.FSM_Unload.2853
+                0x00800089        0x2 Release\obj\control.o
+ .bss.tmpGrateCnt100s.2731
+                0x0080008b        0x1 Release\obj\control.o
+ .bss.CurCanal.2687
+                0x0080008c        0x1 Release\obj\lib\ADC.o
+ .bss.v_ADC     0x0080008d        0x6 Release\obj\lib\ADC.o
+                0x0080008d                v_ADC
+ .bss.CntDN.2784
+                0x00800093        0x1 Release\obj\lib\MenuHAL.o
+ .bss.CntUP.2783
+                0x00800094        0x1 Release\obj\lib\MenuHAL.o
+ .bss.vStateNext
+                0x00800095        0x2 Release\obj\main.o
+                0x00800095                vStateNext
+ .bss.vState    0x00800097        0x2 Release\obj\main.o
+                0x00800097                vState
+ *(COMMON)
+ COMMON         0x00800099       0x5e Release\obj\control.o
+                0x00800099                v_OLed
+                0x0080009a                TimerTaskID
+                0x0080009b                vSQ_State
+                0x0080009c                TaskQueue
+                0x008000a4                pszError
+                0x008000a6                v_CntUnld
+                0x008000a7                pszState
+                0x008000a9                v_ORele_Manual
+                0x008000aa                SQ1_Off_TaskID
+                0x008000ab                MenuStk
+                0x008000b7                SQ1_On_TaskID
+                0x008000b8                TimersPool
+                0x008000d8                v_Param
+                0x008000df                v_Time
+                0x008000e3                MenuSP
+                0x008000e4                rCRC8
+                0x008000e5                v_ORele
+                0x008000e6                szFaultBuf
+                0x008000f6                v_OLed_Manual
+ COMMON         0x008000f7       0xa8 Release\obj\lib\ADC.o
+                0x008000f7                Buff_ADC6
+                0x0080010c                Buff_ADC5
+                0x00800121                Buff_ADC4
+                0x00800136                Buff_ADC0
+                0x0080014b                Buff_ADC2
+                0x00800160                Buff_ADC1
+                0x00800175                Buff_ADC3
+                0x0080018a                Buff_ADC7
+ COMMON         0x0080019f        0x5 Release\obj\lib\KBD_3x1.o
+                0x0080019f                v_KBD
+ COMMON         0x008001a4        0x4 Release\obj\lib\LedDin.o
+                0x008001a4                vDinOff
+                0x008001a5                vLED_CA_CC
+                0x008001a6                pfDin_Out
+ COMMON         0x008001a8       0x11 Release\obj\lib\MenuHAL.o
+                0x008001a8                v_LED3Buf
+                0x008001b0                flgTimerEdit
+                0x008001b1                v_Menu
+ COMMON         0x008001b9       0x13 Release\obj\main.o
+                0x008001b9                vInType
+                0x008001bb                v_cnt_FultTS2_Unload
+                0x008001bc                vRegParam
+                0x008001c6                vStateNextTime
+                0x008001c8                vStateForWait
+                0x008001ca                v_N_Unload
+                0x008001cb                vFlash
+ COMMON         0x008001cc       0x10 Release\obj\Menu.o
+                0x008001cc                szParamVal_Buf
+                0x008001d4                szParamName_Buf
+ COMMON         0x008001dc        0x9 Release\obj\RTOSA\RTOSA.o
+                0x008001dc                r_CntTimers
+                0x008001dd                T0_Reload
+                0x008001de                r_RND
+                0x008001df                r_TaskS
+                0x008001e0                r_CntTask
+                0x008001e1                vOS_Tick
+ COMMON         0x008001e5       0x1e Release\obj\Sets.o
+                0x008001e5                vSets
+                0x008001f7                vSets_com
+                0x00800203                PROVIDE (__bss_end, .)
+                0x0000216e                __data_load_start = LOADADDR (.data)
+                0x00002182                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800203        0x0
+                0x00800203                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800203                PROVIDE (__noinit_end, .)
+                0x00800203                _end = .
+                0x00800203                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000       0x1e
+ *(.eeprom*)
+ .eeprom        0x00810000       0x1e Release\obj\Sets.o
+                0x00810000                evSets_Usr1
+                0x00810012                evSets_com
+                0x0081001e                __eeprom_end = .
+
+.fuse           0x00820000        0x2
+ *(.fuse)
+ .fuse          0x00820000        0x2 Release\obj\fuse_m8.o
+                0x00820000                __fuse
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock           0x00830000        0x1
+ *(.lock*)
+ .lock          0x00830000        0x1 Release\obj\fuse_m8.o
+                0x00830000                __lock
+
+.signature      0x00840000        0x3
+ *(.signature*)
+ .signature     0x00840000        0x3 Release\obj\fuse_m8.o
+                0x00840000                __signature
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 Release\obj\control.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 Release\obj\fuse_m8.o
+ .comment       0x00000030       0x31 Release\obj\lib\ADC.o
+ .comment       0x00000030       0x31 Release\obj\lib\KBD_3x1.o
+ .comment       0x00000030       0x31 Release\obj\lib\LedDin.o
+ .comment       0x00000030       0x31 Release\obj\lib\MenuHAL.o
+ .comment       0x00000030       0x31 Release\obj\lib\vPorts.o
+ .comment       0x00000030       0x31 Release\obj\main.o
+ .comment       0x00000030       0x31 Release\obj\Menu.o
+ .comment       0x00000030       0x31 Release\obj\RTOSA\RTOSA.o
+ .comment       0x00000030       0x31 Release\obj\Sets.o
+ .comment       0x00000030       0x31 Release\obj\Tasks.o
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x3c h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x198
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 Release\obj\control.o
+ .debug_aranges
+                0x00000020       0x18 Release\obj\fuse_m8.o
+ .debug_aranges
+                0x00000038       0x20 Release\obj\lib\ADC.o
+ .debug_aranges
+                0x00000058       0x20 Release\obj\lib\KBD_3x1.o
+ .debug_aranges
+                0x00000078       0x20 Release\obj\lib\LedDin.o
+ .debug_aranges
+                0x00000098       0x20 Release\obj\lib\MenuHAL.o
+ .debug_aranges
+                0x000000b8       0x20 Release\obj\lib\vPorts.o
+ .debug_aranges
+                0x000000d8       0x20 Release\obj\lib\xitoa.o
+ .debug_aranges
+                0x000000f8       0x28 Release\obj\main.o
+ .debug_aranges
+                0x00000120       0x20 Release\obj\Menu.o
+ .debug_aranges
+                0x00000140       0x20 Release\obj\RTOSA\RTOSA.o
+ .debug_aranges
+                0x00000160       0x20 Release\obj\Sets.o
+ .debug_aranges
+                0x00000180       0x18 Release\obj\Tasks.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x757f
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x1b54 Release\obj\control.o
+ .debug_info    0x00001b54       0xd8 Release\obj\fuse_m8.o
+ .debug_info    0x00001c2c      0x6bd Release\obj\lib\ADC.o
+ .debug_info    0x000022e9      0x5e9 Release\obj\lib\KBD_3x1.o
+ .debug_info    0x000028d2      0x68d Release\obj\lib\LedDin.o
+ .debug_info    0x00002f5f      0xf7d Release\obj\lib\MenuHAL.o
+ .debug_info    0x00003edc      0x2f8 Release\obj\lib\vPorts.o
+ .debug_info    0x000041d4       0x71 Release\obj\lib\xitoa.o
+ .debug_info    0x00004245      0xc73 Release\obj\main.o
+ .debug_info    0x00004eb8      0xc59 Release\obj\Menu.o
+ .debug_info    0x00005b11      0xb0a Release\obj\RTOSA\RTOSA.o
+ .debug_info    0x0000661b      0xaf5 Release\obj\Sets.o
+ .debug_info    0x00007110      0x46f Release\obj\Tasks.o
+
+.debug_abbrev   0x00000000     0x1b94
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x422 Release\obj\control.o
+ .debug_abbrev  0x00000422       0x88 Release\obj\fuse_m8.o
+ .debug_abbrev  0x000004aa      0x1ce Release\obj\lib\ADC.o
+ .debug_abbrev  0x00000678      0x1d7 Release\obj\lib\KBD_3x1.o
+ .debug_abbrev  0x0000084f      0x203 Release\obj\lib\LedDin.o
+ .debug_abbrev  0x00000a52      0x301 Release\obj\lib\MenuHAL.o
+ .debug_abbrev  0x00000d53      0x128 Release\obj\lib\vPorts.o
+ .debug_abbrev  0x00000e7b       0x14 Release\obj\lib\xitoa.o
+ .debug_abbrev  0x00000e8f      0x34f Release\obj\main.o
+ .debug_abbrev  0x000011de      0x2e3 Release\obj\Menu.o
+ .debug_abbrev  0x000014c1      0x34b Release\obj\RTOSA\RTOSA.o
+ .debug_abbrev  0x0000180c      0x28e Release\obj\Sets.o
+ .debug_abbrev  0x00001a9a       0xfa Release\obj\Tasks.o
+
+.debug_line     0x00000000     0x1530
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x2e8 Release\obj\control.o
+ .debug_line    0x000002e8       0x53 Release\obj\fuse_m8.o
+ .debug_line    0x0000033b      0x12e Release\obj\lib\ADC.o
+ .debug_line    0x00000469      0x210 Release\obj\lib\KBD_3x1.o
+ .debug_line    0x00000679      0x1c5 Release\obj\lib\LedDin.o
+ .debug_line    0x0000083e      0x290 Release\obj\lib\MenuHAL.o
+ .debug_line    0x00000ace       0xd2 Release\obj\lib\vPorts.o
+ .debug_line    0x00000ba0      0x109 Release\obj\lib\xitoa.o
+ .debug_line    0x00000ca9      0x1f1 Release\obj\main.o
+ .debug_line    0x00000e9a      0x19a Release\obj\Menu.o
+ .debug_line    0x00001034      0x263 Release\obj\RTOSA\RTOSA.o
+ .debug_line    0x00001297      0x1de Release\obj\Sets.o
+ .debug_line    0x00001475       0xbb Release\obj\Tasks.o
+
+.debug_frame    0x00000000      0x8ec
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x300 Release\obj\control.o
+ .debug_frame   0x00000300       0x60 Release\obj\lib\ADC.o
+ .debug_frame   0x00000360       0x5c Release\obj\lib\KBD_3x1.o
+ .debug_frame   0x000003bc       0x60 Release\obj\lib\LedDin.o
+ .debug_frame   0x0000041c      0x148 Release\obj\lib\MenuHAL.o
+ .debug_frame   0x00000564       0x40 Release\obj\lib\vPorts.o
+ .debug_frame   0x000005a4       0xc4 Release\obj\main.o
+ .debug_frame   0x00000668       0xa4 Release\obj\Menu.o
+ .debug_frame   0x0000070c      0x14c Release\obj\RTOSA\RTOSA.o
+ .debug_frame   0x00000858       0x94 Release\obj\Sets.o
+
+.debug_str      0x00000000     0x1293
+ *(.debug_str)
+ .debug_str     0x00000000      0x9a8 Release\obj\control.o
+                                0xae2 (size before relaxing)
+ .debug_str     0x000009a8       0x32 Release\obj\fuse_m8.o
+                                0x13e (size before relaxing)
+ .debug_str     0x000009da       0xe4 Release\obj\lib\ADC.o
+                                0x427 (size before relaxing)
+ .debug_str     0x00000abe       0xb4 Release\obj\lib\KBD_3x1.o
+                                0x3f1 (size before relaxing)
+ .debug_str     0x00000b72       0x6c Release\obj\lib\LedDin.o
+                                0x3da (size before relaxing)
+ .debug_str     0x00000bde      0x343 Release\obj\lib\MenuHAL.o
+                                0x899 (size before relaxing)
+ .debug_str     0x00000f21       0x69 Release\obj\lib\vPorts.o
+                                0x1cf (size before relaxing)
+ .debug_str     0x00000f8a      0x141 Release\obj\main.o
+                                0x6f2 (size before relaxing)
+ .debug_str     0x000010cb       0x5e Release\obj\Menu.o
+                                0x6e6 (size before relaxing)
+ .debug_str     0x00001129       0xc7 Release\obj\RTOSA\RTOSA.o
+                                0x47c (size before relaxing)
+ .debug_str     0x000011f0       0x9b Release\obj\Sets.o
+                                0x50f (size before relaxing)
+ .debug_str     0x0000128b        0x8 Release\obj\Tasks.o
+                                0x33e (size before relaxing)
+
+.debug_loc      0x00000000     0x1c8b
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x574 Release\obj\control.o
+ .debug_loc     0x00000574       0xe1 Release\obj\lib\ADC.o
+ .debug_loc     0x00000655       0xd0 Release\obj\lib\KBD_3x1.o
+ .debug_loc     0x00000725       0xf6 Release\obj\lib\LedDin.o
+ .debug_loc     0x0000081b      0x352 Release\obj\lib\MenuHAL.o
+ .debug_loc     0x00000b6d      0x273 Release\obj\lib\vPorts.o
+ .debug_loc     0x00000de0      0x14e Release\obj\main.o
+ .debug_loc     0x00000f2e      0x369 Release\obj\Menu.o
+ .debug_loc     0x00001297      0x6b1 Release\obj\RTOSA\RTOSA.o
+ .debug_loc     0x00001948      0x343 Release\obj\Sets.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000       0x68
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x38 Release\obj\lib\MenuHAL.o
+ .debug_ranges  0x00000038       0x18 Release\obj\main.o
+ .debug_ranges  0x00000050       0x18 Release\obj\RTOSA\RTOSA.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(Release\bin\PTuCv2.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+Buff_ADC0                                         Release\obj\lib\ADC.o
+Buff_ADC1                                         Release\obj\lib\ADC.o
+Buff_ADC2                                         Release\obj\lib\ADC.o
+Buff_ADC3                                         Release\obj\lib\ADC.o
+Buff_ADC4                                         Release\obj\lib\ADC.o
+Buff_ADC5                                         Release\obj\lib\ADC.o
+Buff_ADC6                                         Release\obj\lib\ADC.o
+Buff_ADC7                                         Release\obj\lib\ADC.o
+CB_RunStop                                        Release\obj\lib\MenuHAL.o
+CB_RunStopsz                                      Release\obj\lib\MenuHAL.o
+CUNUM_AutoRun                                     Release\obj\lib\MenuHAL.o
+CUNUM_AutoRunsz                                   Release\obj\lib\MenuHAL.o
+CUNUM_N_Ignition                                  Release\obj\lib\MenuHAL.o
+CUNUM_N_Ignitionsz                                Release\obj\lib\MenuHAL.o
+CUNUM_N_Unload                                    Release\obj\lib\MenuHAL.o
+CUNUM_N_Unloadsz                                  Release\obj\lib\MenuHAL.o
+CUNUM_Power                                       Release\obj\lib\MenuHAL.o
+CUNUM_Powersz                                     Release\obj\lib\MenuHAL.o
+CUNUM_T_Ignition                                  Release\obj\lib\MenuHAL.o
+CUNUM_T_Ignitionsz                                Release\obj\lib\MenuHAL.o
+CUNUM_T_Pause                                     Release\obj\lib\MenuHAL.o
+CUNUM_T_Pausesz                                   Release\obj\lib\MenuHAL.o
+CUNUM_T_TEN                                       Release\obj\lib\MenuHAL.o
+CUNUM_T_TENsz                                     Release\obj\lib\MenuHAL.o
+CUNUM_Temp1                                       Release\obj\lib\MenuHAL.o
+CUNUM_Temp1sz                                     Release\obj\lib\MenuHAL.o
+CalcMid                                           Release\obj\lib\ADC.o
+IncDecVal                                         Release\obj\lib\MenuHAL.o
+MenuSP                                            Release\obj\Tasks.o
+                                                  Release\obj\Sets.o
+                                                  Release\obj\RTOSA\RTOSA.o
+                                                  Release\obj\RTOSA\Debug.o
+                                                  Release\obj\Menu.o
+                                                  Release\obj\main.o
+                                                  Release\obj\lib\MenuHAL.o
+                                                  Release\obj\lib\LedDin.o
+                                                  Release\obj\lib\KBD_3x1.o
+                                                  Release\obj\lib\ADC.o
+                                                  Release\obj\control.o
+MenuStk                                           Release\obj\Tasks.o
+                                                  Release\obj\Sets.o
+                                                  Release\obj\RTOSA\RTOSA.o
+                                                  Release\obj\RTOSA\Debug.o
+                                                  Release\obj\Menu.o
+                                                  Release\obj\main.o
+                                                  Release\obj\lib\MenuHAL.o
+                                                  Release\obj\lib\LedDin.o
+                                                  Release\obj\lib\KBD_3x1.o
+                                                  Release\obj\lib\ADC.o
+                                                  Release\obj\control.o
+Menu_Main                                         Release\obj\lib\MenuHAL.o
+SQ1_Off_TaskID                                    Release\obj\control.o
+SQ1_On_TaskID                                     Release\obj\control.o
+StrLED_Brn                                        Release\obj\lib\MenuHAL.o
+StrLED_StP                                        Release\obj\lib\MenuHAL.o
+T0_Reload                                         Release\obj\RTOSA\RTOSA.o
+                                                  Release\obj\main.o
+Tab_7Seg                                          Release\obj\lib\LedDin.o
+TaskProcs                                         Release\obj\Tasks.o
+                                                  Release\obj\RTOSA\RTOSA.o
+TaskQueue                                         Release\obj\Tasks.o
+                                                  Release\obj\Sets.o
+                                                  Release\obj\RTOSA\RTOSA.o
+                                                  Release\obj\RTOSA\Debug.o
+                                                  Release\obj\Menu.o
+                                                  Release\obj\main.o
+                                                  Release\obj\lib\MenuHAL.o
+                                                  Release\obj\lib\LedDin.o
+                                                  Release\obj\lib\KBD_3x1.o
+                                                  Release\obj\lib\ADC.o
+                                                  Release\obj\control.o
+TimerTaskID                                       Release\obj\control.o
+                                                  Release\obj\Menu.o
+TimersPool                                        Release\obj\Tasks.o
+                                                  Release\obj\Sets.o
+                                                  Release\obj\RTOSA\RTOSA.o
+                                                  Release\obj\RTOSA\Debug.o
+                                                  Release\obj\Menu.o
+                                                  Release\obj\main.o
+                                                  Release\obj\lib\MenuHAL.o
+                                                  Release\obj\lib\LedDin.o
+                                                  Release\obj\lib\KBD_3x1.o
+                                                  Release\obj\lib\ADC.o
+                                                  Release\obj\control.o
+__bad_interrupt                                   h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+__bss_end                                         h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+__bss_start                                       h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+__data_end                                        h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+__data_load_start                                 h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+__data_start                                      h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+__divmodsi4                                       h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+                                                  Release\obj\control.o
+__do_clear_bss                                    h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                                                  Release\obj\Tasks.o
+                                                  Release\obj\Sets.o
+                                                  Release\obj\RTOSA\RTOSA.o
+                                                  Release\obj\RTOSA\Debug.o
+                                                  Release\obj\Menu.o
+                                                  Release\obj\main.o
+                                                  Release\obj\lib\MenuHAL.o
+                                                  Release\obj\lib\LedDin.o
+                                                  Release\obj\lib\KBD_3x1.o
+                                                  Release\obj\lib\ADC.o
+                                                  Release\obj\control.o
+__do_copy_data                                    h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+                                                  Release\obj\lib\vPorts.o
+                                                  Release\obj\lib\LedDin.o
+                                                  Release\obj\control.o
+__fuse                                            Release\obj\fuse_m8.o
+__heap_end                                        h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+__init                                            h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+__lock                                            Release\obj\fuse_m8.o
+__muluhisi3                                       h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+                                                  Release\obj\control.o
+__negsi2                                          h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+                                                  h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+__signature                                       Release\obj\fuse_m8.o
+__stack                                           h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+__tablejump2__                                    h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+                                                  Release\obj\control.o
+__udivmodhi4                                      h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+                                                  Release\obj\Menu.o
+                                                  Release\obj\control.o
+__udivmodqi4                                      h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+                                                  Release\obj\lib\MenuHAL.o
+                                                  Release\obj\lib\bcd.o
+__udivmodsi4                                      h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+                                                  h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+__umulhisi3                                       h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+                                                  h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+                                                  Release\obj\control.o
+__vector_1                                        Release\obj\control.o
+                                                  h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+__vector_10                                       Release\obj\RTOSA\RTOSA.o
+                                                  h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+__vector_11                                       h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+__vector_12                                       h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+__vector_13                                       h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+__vector_14                                       h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+__vector_15                                       h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+__vector_16                                       h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+__vector_17                                       h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+__vector_18                                       h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+__vector_19                                       h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+__vector_2                                        h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+__vector_20                                       h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+__vector_3                                        h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+__vector_4                                        h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+__vector_5                                        h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+__vector_6                                        h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+__vector_7                                        h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+__vector_8                                        h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+__vector_9                                        h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+__vector_default                                  Release\obj\main.o
+                                                  h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+__vectors                                         h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+_bcd2bin                                          Release\obj\lib\bcd.o
+_bin2bcd                                          Release\obj\lib\bcd.o
+_exit                                             h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+cReleLedTest                                      Release\obj\control.o
+eeprom_read_block                                 h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega32.a(eerd_block.o)
+                                                  Release\obj\Sets.o
+eeprom_read_blraw                                 h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega32.a(eerd_block.o)
+eeprom_update_block                               h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega32.a(eeupd_block.o)
+                                                  Release\obj\Sets.o
+eeprom_update_byte                                h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega32.a(eeupd_byte.o)
+eeprom_update_r18                                 h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega32.a(eeupd_byte.o)
+                                                  h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega32.a(eeupd_block.o)
+evSets_Usr1                                       Release\obj\Sets.o
+evSets_com                                        Release\obj\Sets.o
+exit                                              h:/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                                                  h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+fADCInit                                          Release\obj\lib\ADC.o
+                                                  Release\obj\main.o
+fADC_Exe                                          Release\obj\lib\ADC.o
+                                                  Release\obj\main.o
+fASCII2_LED                                       Release\obj\Menu.o
+                                                  Release\obj\lib\MenuHAL.o
+fAlarm_On                                         Release\obj\control.o
+fB27S                                             Release\obj\lib\LedDin.o
+                                                  Release\obj\Menu.o
+fBunker                                           Release\obj\control.o
+fBunker_Load_TimeOut                              Release\obj\control.o
+                                                  Release\obj\Tasks.o
+fBuzInit                                          Release\obj\main.o
+fBuzOff                                           Release\obj\main.o
+                                                  Release\obj\Tasks.o
+                                                  Release\obj\control.o
+fBuzOn                                            Release\obj\main.o
+                                                  Release\obj\Tasks.o
+                                                  Release\obj\control.o
+fBuzOnTime                                        Release\obj\main.o
+                                                  Release\obj\lib\KBD_3x1.o
+fBuzSound                                         Release\obj\control.o
+fBuzer                                            Release\obj\main.o
+fCRC16                                            Release\obj\main.o
+                                                  Release\obj\Sets.o
+fClean_On                                         Release\obj\control.o
+fCntScrew                                         Release\obj\control.o
+                                                  Release\obj\Tasks.o
+fControl                                          Release\obj\control.o
+                                                  Release\obj\Menu.o
+fDin_Fresh                                        Release\obj\lib\LedDin.o
+                                                  Release\obj\main.o
+fDin_Init                                         Release\obj\lib\LedDin.o
+                                                  Release\obj\main.o
+fDin_Out                                          Release\obj\lib\LedDin.o
+fFan_On                                           Release\obj\control.o
+fFaultIgnition                                    Release\obj\control.o
+fFlash                                            Release\obj\main.o
+                                                  Release\obj\Tasks.o
+fFuelOn                                           Release\obj\control.o
+fGetADC_from_TempLM335                            Release\obj\control.o
+                                                  Release\obj\lib\MenuHAL.o
+fGetIncDecVal                                     Release\obj\lib\MenuHAL.o
+fGetTempLM335                                     Release\obj\control.o
+fGetTempPt100                                     Release\obj\control.o
+fGrate_On                                         Release\obj\control.o
+                                                  Release\obj\Tasks.o
+fIdle                                             Release\obj\main.o
+                                                  Release\obj\Tasks.o
+fIn_vPort                                         Release\obj\lib\vPorts.o
+fKBD_Exe                                          Release\obj\lib\KBD_3x1.o
+                                                  Release\obj\lib\LedDin.o
+fKBD_GetKey                                       Release\obj\lib\KBD_3x1.o
+                                                  Release\obj\Menu.o
+fKBD_Init                                         Release\obj\lib\KBD_3x1.o
+                                                  Release\obj\main.o
+fKBD_Scan                                         Release\obj\lib\KBD_3x1.o
+fLed_Fault_Off                                    Release\obj\control.o
+fLed_Fault_On                                     Release\obj\control.o
+fManual_Off                                       Release\obj\control.o
+fMenu                                             Release\obj\Menu.o
+                                                  Release\obj\Tasks.o
+                                                  Release\obj\main.o
+fMenuButtonProc                                   Release\obj\lib\MenuHAL.o
+                                                  Release\obj\Tasks.o
+fMenuDefEditProc                                  Release\obj\lib\MenuHAL.o
+                                                  Release\obj\Tasks.o
+fMenuDefProc                                      Release\obj\lib\MenuHAL.o
+                                                  Release\obj\Tasks.o
+fMenuDraw                                         Release\obj\lib\MenuHAL.o
+                                                  Release\obj\Tasks.o
+fMenuDrawCtrl                                     Release\obj\lib\MenuHAL.o
+fMenuDraw_szItemMenu                              Release\obj\lib\MenuHAL.o
+fMenuGetHndCtrl                                   Release\obj\lib\MenuHAL.o
+fMenuInit                                         Release\obj\lib\MenuHAL.o
+                                                  Release\obj\Tasks.o
+                                                  Release\obj\main.o
+                                                  Release\obj\control.o
+fMenuNext                                         Release\obj\lib\MenuHAL.o
+                                                  Release\obj\Tasks.o
+fMenuParamIncDec                                  Release\obj\lib\MenuHAL.o
+                                                  Release\obj\Tasks.o
+fMenuPrev                                         Release\obj\lib\MenuHAL.o
+                                                  Release\obj\Tasks.o
+fMenuSelect                                       Release\obj\lib\MenuHAL.o
+                                                  Release\obj\Tasks.o
+fMenuSendMsg                                      Release\obj\lib\MenuHAL.o
+                                                  Release\obj\Menu.o
+fOffAllRele                                       Release\obj\control.o
+fOut_vPort                                        Release\obj\lib\vPorts.o
+                                                  Release\obj\main.o
+                                                  Release\obj\lib\LedDin.o
+                                                  Release\obj\control.o
+fPrint2LED                                        Release\obj\Menu.o
+fPrintParams                                      Release\obj\Menu.o
+fPrintState                                       Release\obj\Menu.o
+fProgramm                                         Release\obj\main.o
+fPump_On                                          Release\obj\control.o
+fReUnload_On                                      Release\obj\control.o
+                                                  Release\obj\Tasks.o
+fRunStop                                          Release\obj\control.o
+                                                  Release\obj\Tasks.o
+fSQGet                                            Release\obj\control.o
+                                                  Release\obj\Tasks.o
+fSQInit                                           Release\obj\control.o
+                                                  Release\obj\main.o
+fScrew_L_On                                       Release\obj\control.o
+fScrew_R_On                                       Release\obj\control.o
+fSetsRead                                         Release\obj\Sets.o
+                                                  Release\obj\lib\MenuHAL.o
+fSetsWrite                                        Release\obj\Sets.o
+                                                  Release\obj\lib\MenuHAL.o
+fSupply_Off                                       Release\obj\control.o
+fSupply_On                                        Release\obj\control.o
+fTEN_AirOn                                        Release\obj\control.o
+fTEN_On                                           Release\obj\control.o
+fTEN_OnTimeLeft                                   Release\obj\control.o
+                                                  Release\obj\Tasks.o
+fUnload_Off                                       Release\obj\control.o
+fWait_Time_2Next                                  Release\obj\control.o
+                                                  Release\obj\Tasks.o
+f_CheckTempr                                      Release\obj\control.o
+f_FSM_Alarm                                       Release\obj\control.o
+f_FSM_CleanScrew                                  Release\obj\control.o
+f_FSM_Grate                                       Release\obj\control.o
+f_FSM_Unload                                      Release\obj\control.o
+f_Go2IGN_UNLOAD                                   Release\obj\control.o
+f_Input                                           Release\obj\control.o
+f_Output                                          Release\obj\control.o
+f_Write_CRC_Block                                 Release\obj\Sets.o
+flgTimerEdit                                      Release\obj\lib\MenuHAL.o
+fmt_3u                                            Release\obj\Menu.o
+                                                  Release\obj\lib\MenuHAL.o
+krCallTaskID                                      Release\obj\RTOSA\RTOSA.o
+                                                  Release\obj\Menu.o
+krClearTaskQueue                                  Release\obj\RTOSA\RTOSA.o
+                                                  Release\obj\main.o
+krClearTimers                                     Release\obj\RTOSA\RTOSA.o
+                                                  Release\obj\main.o
+krClrTimer                                        Release\obj\RTOSA\RTOSA.o
+                                                  Release\obj\Menu.o
+                                                  Release\obj\control.o
+krDedug                                           Release\obj\RTOSA\Debug.o
+krError                                           Release\obj\RTOSA\Debug.o
+krGetTimer                                        Release\obj\RTOSA\RTOSA.o
+                                                  Release\obj\Menu.o
+                                                  Release\obj\control.o
+krMemCopyF2R                                      Release\obj\RTOSA\RTOSA.o
+                                                  Release\obj\Menu.o
+                                                  Release\obj\lib\MenuHAL.o
+krMemCopyR2R                                      Release\obj\RTOSA\RTOSA.o
+krMemFill                                         Release\obj\RTOSA\RTOSA.o
+krProcessTaskQueue                                Release\obj\RTOSA\RTOSA.o
+                                                  Release\obj\main.o
+krRand                                            Release\obj\RTOSA\RTOSA.o
+krSendTask                                        Release\obj\RTOSA\RTOSA.o
+                                                  Release\obj\lib\MenuHAL.o
+                                                  Release\obj\control.o
+krSetTimer                                        Release\obj\RTOSA\RTOSA.o
+                                                  Release\obj\Menu.o
+                                                  Release\obj\main.o
+                                                  Release\obj\control.o
+krTimerRun                                        Release\obj\RTOSA\RTOSA.o
+main                                              Release\obj\main.o
+                                                  h:/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32.o
+pfDin_Out                                         Release\obj\lib\LedDin.o
+pszError                                          Release\obj\control.o
+                                                  Release\obj\Sets.o
+                                                  Release\obj\Menu.o
+pszState                                          Release\obj\control.o
+rCRC8                                             Release\obj\Tasks.o
+                                                  Release\obj\Sets.o
+                                                  Release\obj\RTOSA\RTOSA.o
+                                                  Release\obj\RTOSA\Debug.o
+                                                  Release\obj\Menu.o
+                                                  Release\obj\main.o
+                                                  Release\obj\lib\MenuHAL.o
+                                                  Release\obj\lib\LedDin.o
+                                                  Release\obj\lib\KBD_3x1.o
+                                                  Release\obj\lib\ADC.o
+                                                  Release\obj\control.o
+r_CntTask                                         Release\obj\RTOSA\RTOSA.o
+                                                  Release\obj\RTOSA\Debug.o
+                                                  Release\obj\main.o
+r_CntTimers                                       Release\obj\RTOSA\RTOSA.o
+                                                  Release\obj\RTOSA\Debug.o
+r_RND                                             Release\obj\RTOSA\RTOSA.o
+r_TaskS                                           Release\obj\RTOSA\RTOSA.o
+                                                  Release\obj\main.o
+szFaultBuf                                        Release\obj\control.o
+szFaultCRC                                        Release\obj\control.o
+szFaultCRCc                                       Release\obj\control.o
+                                                  Release\obj\Sets.o
+szFaultCRCs                                       Release\obj\control.o
+                                                  Release\obj\Sets.o
+szFaultCleaning                                   Release\obj\control.o
+szFaultFuel                                       Release\obj\control.o
+szFaultTS2                                        Release\obj\control.o
+szFaultTen                                        Release\obj\control.o
+szParamName_Buf                                   Release\obj\Menu.o
+                                                  Release\obj\lib\MenuHAL.o
+szParamVal_Buf                                    Release\obj\Menu.o
+                                                  Release\obj\lib\MenuHAL.o
+szState_B                                         Release\obj\control.o
+szState_D                                         Release\obj\control.o
+szState_G                                         Release\obj\control.o
+szState_H                                         Release\obj\control.o
+szState_I                                         Release\obj\control.o
+szState_L                                         Release\obj\control.o
+szState_P                                         Release\obj\control.o
+szState_T                                         Release\obj\control.o
+szState_U                                         Release\obj\control.o
+szState_x                                         Release\obj\control.o
+szt                                               Release\obj\Menu.o
+vBits                                             Release\obj\lib\vPorts.o
+vDinOff                                           Release\obj\lib\LedDin.o
+vDinam                                            Release\obj\lib\LedDin.o
+                                                  Release\obj\Menu.o
+vFlash                                            Release\obj\main.o
+                                                  Release\obj\Menu.o
+                                                  Release\obj\control.o
+vInType                                           Release\obj\main.o
+vLED_CA_CC                                        Release\obj\lib\LedDin.o
+vOS_Tick                                          Release\obj\RTOSA\RTOSA.o
+                                                  Release\obj\control.o
+vPort0                                            Release\obj\lib\vPorts.o
+vPort1                                            Release\obj\lib\vPorts.o
+vPort2                                            Release\obj\lib\vPorts.o
+vPort3                                            Release\obj\lib\vPorts.o
+vPorts                                            Release\obj\lib\vPorts.o
+vRegParam                                         Release\obj\main.o
+                                                  Release\obj\lib\MenuHAL.o
+                                                  Release\obj\control.o
+vSQ_State                                         Release\obj\control.o
+vSets                                             Release\obj\Sets.o
+                                                  Release\obj\lib\MenuHAL.o
+                                                  Release\obj\control.o
+vSets_com                                         Release\obj\Sets.o
+                                                  Release\obj\Menu.o
+                                                  Release\obj\lib\MenuHAL.o
+                                                  Release\obj\control.o
+vState                                            Release\obj\main.o
+                                                  Release\obj\Menu.o
+                                                  Release\obj\lib\MenuHAL.o
+                                                  Release\obj\control.o
+vStateForWait                                     Release\obj\main.o
+                                                  Release\obj\control.o
+vStateNext                                        Release\obj\main.o
+                                                  Release\obj\Menu.o
+                                                  Release\obj\control.o
+vStateNextTime                                    Release\obj\main.o
+                                                  Release\obj\control.o
+v_ADC                                             Release\obj\lib\ADC.o
+                                                  Release\obj\control.o
+v_ADC_Bufs                                        Release\obj\lib\ADC.o
+v_ADC_List                                        Release\obj\lib\ADC.o
+v_CntUnld                                         Release\obj\control.o
+                                                  Release\obj\Menu.o
+v_KBD                                             Release\obj\lib\KBD_3x1.o
+                                                  Release\obj\main.o
+v_LED3Buf                                         Release\obj\lib\MenuHAL.o
+v_Menu                                            Release\obj\lib\MenuHAL.o
+                                                  Release\obj\Menu.o
+v_N_Unload                                        Release\obj\main.o
+                                                  Release\obj\Menu.o
+                                                  Release\obj\control.o
+v_OLed                                            Release\obj\Tasks.o
+                                                  Release\obj\Sets.o
+                                                  Release\obj\RTOSA\RTOSA.o
+                                                  Release\obj\RTOSA\Debug.o
+                                                  Release\obj\Menu.o
+                                                  Release\obj\main.o
+                                                  Release\obj\lib\MenuHAL.o
+                                                  Release\obj\lib\LedDin.o
+                                                  Release\obj\lib\KBD_3x1.o
+                                                  Release\obj\lib\ADC.o
+                                                  Release\obj\control.o
+v_OLed_Manual                                     Release\obj\Tasks.o
+                                                  Release\obj\Sets.o
+                                                  Release\obj\RTOSA\RTOSA.o
+                                                  Release\obj\RTOSA\Debug.o
+                                                  Release\obj\Menu.o
+                                                  Release\obj\main.o
+                                                  Release\obj\lib\MenuHAL.o
+                                                  Release\obj\lib\LedDin.o
+                                                  Release\obj\lib\KBD_3x1.o
+                                                  Release\obj\lib\ADC.o
+                                                  Release\obj\control.o
+v_ORele                                           Release\obj\Tasks.o
+                                                  Release\obj\Sets.o
+                                                  Release\obj\RTOSA\RTOSA.o
+                                                  Release\obj\RTOSA\Debug.o
+                                                  Release\obj\Menu.o
+                                                  Release\obj\main.o
+                                                  Release\obj\lib\MenuHAL.o
+                                                  Release\obj\lib\LedDin.o
+                                                  Release\obj\lib\KBD_3x1.o
+                                                  Release\obj\lib\ADC.o
+                                                  Release\obj\control.o
+v_ORele_Manual                                    Release\obj\Tasks.o
+                                                  Release\obj\Sets.o
+                                                  Release\obj\RTOSA\RTOSA.o
+                                                  Release\obj\RTOSA\Debug.o
+                                                  Release\obj\Menu.o
+                                                  Release\obj\main.o
+                                                  Release\obj\lib\MenuHAL.o
+                                                  Release\obj\lib\LedDin.o
+                                                  Release\obj\lib\KBD_3x1.o
+                                                  Release\obj\lib\ADC.o
+                                                  Release\obj\control.o
+v_Param                                           Release\obj\control.o
+                                                  Release\obj\Menu.o
+v_Time                                            Release\obj\control.o
+v_cnt_FultTS2_Unload                              Release\obj\main.o
+                                                  Release\obj\control.o
+xfunc_out                                         Release\obj\lib\xitoa.o
+xitoa                                             Release\obj\lib\xitoa.o
+xprintf                                           Release\obj\lib\xitoa.o
+xputc                                             Release\obj\lib\xitoa.o
+xputs                                             Release\obj\lib\xitoa.o
+xsprintf                                          Release\obj\lib\xitoa.o
+                                                  Release\obj\Menu.o
+                                                  Release\obj\lib\MenuHAL.o

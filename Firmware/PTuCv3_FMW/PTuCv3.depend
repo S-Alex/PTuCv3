@@ -1,0 +1,1188 @@
+# depslib dependency file v1.0
+1449525067 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\fuse.c
+	<avr/io.h>
+
+1454878356 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\encoder.c
+	"main.h"
+	"EnCoder.h"
+
+1450685543 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\encoder.h
+	"RTOSA\RTOSA.h"
+
+1399655955 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\\rtosa\types.h
+
+1454881794 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\\rtosa\rtosa.h
+	<avr/io.h>
+	<stdlib.h>
+	<avr/interrupt.h>
+	<util/atomic.h>
+	"types.h"
+	"../MacroSA.h"
+	"../HW_def.h"
+	"TimerCntrs.h"
+
+1451497239 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\\macrosa.h
+	<avr\builtins.h>
+
+1457125498 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\\hw_def.h
+	"RTOSA/types.h"
+
+1427411781 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\\rtosa\timercntrs.h
+	"..\MacroSA.h"
+
+1450464765 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\leddin.c
+	"LedDin.h"
+	"vPorts.h"
+
+1450440828 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\leddin.h
+	"main.h"
+
+1433268642 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\vports.h
+	<avr/io.h>
+	"MacroSA.h"
+	"RTOSA/types.h"
+	<vPorts.h>
+	<vPorts.c>
+
+1433269140 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\vports.c
+	"vPorts.h"
+
+1454881669 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\main.c
+	"main.h"
+
+1454881794 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\rtosa\rtosa.h
+	<avr/io.h>
+	<stdlib.h>
+	<avr/interrupt.h>
+	<util/atomic.h>
+	"types.h"
+	"../MacroSA.h"
+	"../HW_def.h"
+	"TimerCntrs.h"
+
+1399655955 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\rtosa\types.h
+
+1451497239 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\macrosa.h
+	<avr\builtins.h>
+
+1457125498 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\hw_def.h
+	"RTOSA/types.h"
+
+1427411781 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\rtosa\timercntrs.h
+	"..\MacroSA.h"
+
+1452440702 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\tasks.h
+	"main.h"
+
+1454881794 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\adc.h
+	<avr/io.h>
+
+1454882895 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\rtosa\rtosa.c
+	"RTOSA.h"
+	<RTOSA.h>
+	<RTOSA.c>
+
+1452440703 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\tasks.c
+	"Tasks.h"
+
+1457125376 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\\main.h
+	<h:\avr\include\stdio.h>
+	<h:\avr\include\stdlib.h>
+	<h:\avr\include\time.h>
+	<h:\avr\include\avr\eeprom.h>
+	<h:\avr\include\util\crc16.h>
+	<h:\avr\include\avr\wdt.h>
+	<h:\avr\include\string.h>
+	"RTOSA\RTOSA.h"
+	"tasks.h"
+	"HW_def.h"
+	"lib\ScrollString.h"
+	"lib\ADC.h"
+	"lib\LCD_uni.h"
+	"lib\SPI.h"
+	"lib\RTC.h"
+	"lib\EnCoder.h"
+	"lib\MenuHAL.h"
+	"Menu.h"
+	"control.h"
+	"Sets.h"
+	"lib\KBD_3x1.h"
+	"Outs.h"
+	"lib\pid.h"
+	"Data_Flash.h"
+	"lib\xitoa.h"
+	"lib/LedDin.h"
+	"version.h"
+	"Sets.h"
+
+1444207510 h:\avr\include\stdio.h
+	<inttypes.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+
+1444207510 h:\avr\include\stdlib.h
+	<stddef.h>
+
+1382195440 h:\avr\include\time.h
+	<inttypes.h>
+	<stdlib.h>
+
+1444207510 h:\avr\include\avr\eeprom.h
+	<avr/io.h>
+	<stddef.h>
+	<stdint.h>
+
+1444207510 h:\avr\include\util\crc16.h
+	<stdint.h>
+
+1444207510 h:\avr\include\avr\wdt.h
+	<avr/io.h>
+	<stdint.h>
+	<stdint.h>
+	<avr/wdt.h>
+
+1444207510 h:\avr\include\string.h
+	<stddef.h>
+
+1452440702 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\\tasks.h
+	"main.h"
+
+1450808353 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\\lib\scrollstring.h
+	"avr/pgmspace.h"
+
+1454881794 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\\lib\adc.h
+	<avr/io.h>
+
+1452063892 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\\lib\lcd_uni.h
+	"MacroSA.h"
+
+1450438192 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\\lib\spi.h
+	"..\RTOSA\types.h"
+
+1432841393 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\\lib\rtc.h
+	"main.h"
+	"DS1302_SA.h"
+	"bcd.h"
+	"../Sets.h"
+
+1449944529 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\\lib\ds1302_sa.h
+	"../HW_def.h"
+
+1420749241 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\\lib\bcd.h
+
+1457125346 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\\sets.h
+
+1450685543 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\\lib\encoder.h
+	"RTOSA\RTOSA.h"
+
+1445643248 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\\lib\menuhal.h
+	"main.h"
+	"Sets.h"
+
+1451935490 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\\menu.h
+	"main.h"
+
+1453243137 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\\control.h
+
+1451500754 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\\lib\kbd_3x1.h
+
+1451380086 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\\outs.h
+	"HW_def.h"
+
+1190005548 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\\lib\pid.h
+	"stdint.h"
+
+1451504720 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\\data_flash.h
+
+1433268696 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\\lib\xitoa.h
+	<inttypes.h>
+
+1450440828 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\\lib\leddin.h
+	"main.h"
+
+1457125376 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\main.h
+	<h:\avr\include\stdio.h>
+	<h:\avr\include\stdlib.h>
+	<h:\avr\include\time.h>
+	<h:\avr\include\avr\eeprom.h>
+	<h:\avr\include\util\crc16.h>
+	<h:\avr\include\avr\wdt.h>
+	<h:\avr\include\string.h>
+	"RTOSA\RTOSA.h"
+	"tasks.h"
+	"HW_def.h"
+	"lib\ScrollString.h"
+	"lib\ADC.h"
+	"lib\LCD_uni.h"
+	"lib\SPI.h"
+	"lib\RTC.h"
+	"lib\EnCoder.h"
+	"lib\MenuHAL.h"
+	"Menu.h"
+	"control.h"
+	"Sets.h"
+	"lib\KBD_3x1.h"
+	"Outs.h"
+	"lib\pid.h"
+	"Data_Flash.h"
+	"lib\xitoa.h"
+	"lib/LedDin.h"
+	"version.h"
+	"Sets.h"
+
+1450808353 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\scrollstring.h
+	"avr/pgmspace.h"
+
+1452063892 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\lcd_uni.h
+	"MacroSA.h"
+
+1450438192 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\spi.h
+	"..\RTOSA\types.h"
+
+1432841393 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\rtc.h
+	"main.h"
+	"DS1302_SA.h"
+	"bcd.h"
+	"../Sets.h"
+
+1449944529 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\ds1302_sa.h
+	"../HW_def.h"
+
+1420749241 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\bcd.h
+
+1457125346 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\sets.h
+
+1445643248 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\menuhal.h
+	"main.h"
+	"Sets.h"
+
+1451935490 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\menu.h
+	"main.h"
+
+1453243137 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\control.h
+
+1451500754 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\kbd_3x1.h
+
+1451380086 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\outs.h
+	"HW_def.h"
+
+1190005548 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\pid.h
+	"stdint.h"
+
+1451504720 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\data_flash.h
+
+1433268696 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\xitoa.h
+	<inttypes.h>
+
+1457125630 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\\version.h
+
+1457125630 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\version.h
+
+1457125587 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\control.c
+	"main.h"
+	"control.h"
+
+1451504614 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\data_flash.c
+	"RTOSA/RTOSA.h"
+
+1457125630 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\adc.c
+	"../main.h"
+	"ADC.h"
+
+1420749208 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\bcd.c
+	"bcd.h"
+
+1427279677 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\ds1302_sa.c
+	<avr/io.h>
+	<time.h>
+	"MacroSA.h"
+	"DS1302_SA.h"
+	"bcd.h"
+	<util/atomic.h>
+
+1454878377 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\kbd_3x1.c
+	<avr/io.h>
+	"RTOSA\types.h"
+	"MacroSA.h"
+	"main.h"
+	"KBD_3x1.h"
+
+1450631881 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\key.c
+	"Main.h"
+
+1452093109 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\lcd_uni.c
+	"main.h"
+	"LCD_uni.h"
+	"..\MacroSA.h"
+	"MacroSA.h"
+	"avr/pgmspace.h"
+	"LCD_uni.h"
+	"vPorts.h"
+	"Data_Flash.h"
+	"CRC8tab.h"
+	"LCD_RecodeTable.h"
+
+1433268076 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\crc8tab.h
+
+1420320193 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\lcd_recodetable.h
+
+1454779945 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\menuhal.c
+	"MenuHAL.h"
+
+1445388332 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\pid.c
+	"pid.h"
+	"stdint.h"
+
+1454878484 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\rtc.c
+	"RTC.h"
+
+1453712631 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\scrollstring.c
+	"main.h"
+	"ScrollString.h"
+
+1453243784 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\spi.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	<avr/pgmspace.h>
+	"MacroSA.h"
+	"SPI.h"
+	"HW_def.h"
+
+1425594597 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\usart.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"../HW_def.h"
+	"Usart.h"
+
+1427414375 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\lib\usart.h
+	"CRC8tab.h"
+
+1460663462 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\control.c
+	"control.h"
+
+1460660501 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\main.h
+	<h:\avr\include\stdio.h>
+	<h:\avr\include\stdlib.h>
+	<h:\avr\include\avr\eeprom.h>
+	<h:\avr\include\util\crc16.h>
+	<h:\avr\include\avr\wdt.h>
+	<h:\avr\include\string.h>
+	"RTOSA\RTOSA.h"
+	"tasks.h"
+	"HW_def.h"
+	"lib\ADC.h"
+	"lib\MenuHAL.h"
+	"lib\bcd.h"
+	"Menu.h"
+	"control.h"
+	"Sets.h"
+	"lib\KBD_3x1.h"
+	"lib/LedDin.h"
+	"lib/vPorts.h"
+	"version.h"
+	"Sets.h"
+	"lib/xitoa.h"
+
+1460222324 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\rtosa\rtosa.h
+	<avr/io.h>
+	<stdlib.h>
+	<avr/interrupt.h>
+	<util/atomic.h>
+	"types.h"
+	"../MacroSA.h"
+	"../HW_def.h"
+	"TimerCntrs.h"
+	"Debug.h"
+
+1399659555 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\rtosa\types.h
+
+1458158932 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\macrosa.h
+	<avr\builtins.h>
+
+1460662651 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\hw_def.h
+	"RTOSA/types.h"
+
+1427411781 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\rtosa\timercntrs.h
+	"..\MacroSA.h"
+
+1460661299 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\tasks.h
+	"main.h"
+
+1450808353 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\scrollstring.h
+	"avr/pgmspace.h"
+
+1458586638 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\adc.h
+	<avr/io.h>
+
+1452063892 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\lcd_uni.h
+	"MacroSA.h"
+
+1458158932 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\\macrosa.h
+	<avr\builtins.h>
+
+1450438192 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\spi.h
+	"..\RTOSA\types.h"
+
+1432841393 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\rtc.h
+	"main.h"
+	"DS1302_SA.h"
+	"bcd.h"
+	"../Sets.h"
+
+1460660501 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\\main.h
+	<h:\avr\include\stdio.h>
+	<h:\avr\include\stdlib.h>
+	<h:\avr\include\avr\eeprom.h>
+	<h:\avr\include\util\crc16.h>
+	<h:\avr\include\avr\wdt.h>
+	<h:\avr\include\string.h>
+	"RTOSA\RTOSA.h"
+	"tasks.h"
+	"HW_def.h"
+	"lib\ADC.h"
+	"lib\MenuHAL.h"
+	"lib\bcd.h"
+	"Menu.h"
+	"control.h"
+	"Sets.h"
+	"lib\KBD_3x1.h"
+	"lib/LedDin.h"
+	"lib/vPorts.h"
+	"version.h"
+	"Sets.h"
+	"lib/xitoa.h"
+
+1460222324 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\\rtosa\rtosa.h
+	<avr/io.h>
+	<stdlib.h>
+	<avr/interrupt.h>
+	<util/atomic.h>
+	"types.h"
+	"../MacroSA.h"
+	"../HW_def.h"
+	"TimerCntrs.h"
+	"Debug.h"
+
+1399659555 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\\rtosa\types.h
+
+1460662651 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\\hw_def.h
+	"RTOSA/types.h"
+
+1427411781 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\\rtosa\timercntrs.h
+	"..\MacroSA.h"
+
+1460661299 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\\tasks.h
+	"main.h"
+
+1450808353 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\\lib\scrollstring.h
+	"avr/pgmspace.h"
+
+1458586638 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\\lib\adc.h
+	<avr/io.h>
+
+1452063892 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\\lib\lcd_uni.h
+	"MacroSA.h"
+
+1450438192 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\\lib\spi.h
+	"..\RTOSA\types.h"
+
+1432841393 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\\lib\rtc.h
+	"main.h"
+	"DS1302_SA.h"
+	"bcd.h"
+	"../Sets.h"
+
+1449944529 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\\lib\ds1302_sa.h
+	"../HW_def.h"
+
+1420749241 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\\lib\bcd.h
+
+1460487401 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\\sets.h
+	"../sets_crc16/CRC16_for_set.h "
+
+1450685543 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\\lib\encoder.h
+	"RTOSA\RTOSA.h"
+
+1460217082 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\\lib\menuhal.h
+	"main.h"
+	"Sets.h"
+
+1460480752 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\\menu.h
+	"main.h"
+
+1460661299 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\\control.h
+	"main.h"
+	"lib/LedDin.h"
+
+1457547619 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\\lib\kbd_3x1.h
+
+1451380086 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\\outs.h
+	"HW_def.h"
+
+1190005548 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\\lib\pid.h
+	"stdint.h"
+
+1451504720 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\\data_flash.h
+
+1433272296 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\\lib\xitoa.h
+	<inttypes.h>
+
+1460295158 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\\lib\leddin.h
+	"main.h"
+
+1460825591 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\\version.h
+
+1449944529 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\ds1302_sa.h
+	"../HW_def.h"
+
+1420749241 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\bcd.h
+
+1460487401 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\sets.h
+	"../sets_crc16/CRC16_for_set.h "
+
+1450685543 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\encoder.h
+	"RTOSA\RTOSA.h"
+
+1460217082 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\menuhal.h
+	"main.h"
+	"Sets.h"
+
+1460480752 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\menu.h
+	"main.h"
+
+1460661299 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\control.h
+	"main.h"
+	"lib/LedDin.h"
+
+1457547619 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\kbd_3x1.h
+
+1451380086 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\outs.h
+	"HW_def.h"
+
+1190005548 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\pid.h
+	"stdint.h"
+
+1451504720 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\data_flash.h
+
+1433272296 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\xitoa.h
+	<inttypes.h>
+
+1460295158 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\leddin.h
+	"main.h"
+
+1460825591 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\version.h
+
+1451504614 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\data_flash.c
+	"RTOSA/RTOSA.h"
+
+1457349207 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\fuse.c
+	<avr/io.h>
+
+1460223379 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\adc.c
+	"../main.h"
+	"ADC.h"
+
+1420749208 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\bcd.c
+	"bcd.h"
+
+1427279677 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\ds1302_sa.c
+	<avr/io.h>
+	<time.h>
+	"MacroSA.h"
+	"DS1302_SA.h"
+	"bcd.h"
+	<util/atomic.h>
+
+1454878356 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\encoder.c
+	"main.h"
+	"EnCoder.h"
+
+1460299282 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\kbd_3x1.c
+	<avr/io.h>
+	"RTOSA\types.h"
+	"MacroSA.h"
+	"main.h"
+	"KBD_3x1.h"
+
+1450631881 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\key.c
+	"Main.h"
+
+1452093109 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\lcd_uni.c
+	"main.h"
+	"LCD_uni.h"
+	"..\MacroSA.h"
+	"MacroSA.h"
+	"avr/pgmspace.h"
+	"LCD_uni.h"
+	"vPorts.h"
+	"Data_Flash.h"
+	"CRC8tab.h"
+	"LCD_RecodeTable.h"
+
+1457344495 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\vports.h
+	<avr/io.h>
+	"MacroSA.h"
+	"RTOSA/types.h"
+	<vPorts.h>
+	<vPorts.c>
+
+1433268076 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\crc8tab.h
+
+1420320193 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\lcd_recodetable.h
+
+1457549416 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\leddin.c
+	"LedDin.h"
+	"vPorts.h"
+
+1460488252 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\menuhal.c
+	"MenuHAL.h"
+
+1445388332 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\pid.c
+	"pid.h"
+	"stdint.h"
+
+1454878484 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\rtc.c
+	"RTC.h"
+
+1453712631 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\scrollstring.c
+	"main.h"
+	"ScrollString.h"
+
+1453243784 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\spi.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	<avr/pgmspace.h>
+	"MacroSA.h"
+	"SPI.h"
+	"HW_def.h"
+
+1425594597 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\usart.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"../HW_def.h"
+	"Usart.h"
+
+1427414375 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\usart.h
+	"CRC8tab.h"
+
+1460223279 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\vports.c
+	"vPorts.h"
+
+1460824278 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\main.c
+	"main.h"
+
+1460574464 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\menu.c
+	"main.h"
+
+1453499939 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\outs.c
+	"main.h"
+
+1458584294 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\rtosa\debug.c
+	"Debug.h"
+
+1454882924 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\rtosa\debug.h
+
+1460231349 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\rtosa\rtosa.c
+	"RTOSA.h"
+	<RTOSA.h>
+	<RTOSA.c>
+
+1460661299 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\tasks.c
+	"Tasks.h"
+
+1460223156 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\sets.c
+	"main.h"
+	<h:\avr\include\avr\eeprom.h>
+	"Sets_c.h"
+
+1460824278 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\sets_c.h
+	"Sets.h"
+
+1430937643 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\sn.c
+
+1457344495 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\\lib\vports.h
+	<avr/io.h>
+	"MacroSA.h"
+	"RTOSA/types.h"
+	<vPorts.h>
+	<vPorts.c>
+
+1459797195 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\fuse_m8.c
+	<avr/io.h>
+	<avr/signature.h>
+
+1454882924 e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\\rtosa\debug.h
+
+1421101453 source:e:\s_alex\sa_project\teploecoresurs\ptuc\firmware\ptuc_fmw\lib\xitoa.s
+	<avr/io.h>
+
+1466453179 source:e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\control.c
+	"control.h"
+
+1466447391 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\control.h
+	"main.h"
+	"lib/LedDin.h"
+
+1466447382 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\main.h
+	<h:\avr\include\stdio.h>
+	<h:\avr\include\stdlib.h>
+	<h:\avr\include\avr\eeprom.h>
+	<h:\avr\include\util\crc16.h>
+	<h:\avr\include\avr\wdt.h>
+	<h:\avr\include\string.h>
+	"RTOSA\RTOSA.h"
+	"tasks.h"
+	"HW_def.h"
+	"lib\ADC.h"
+	"lib\MenuHAL.h"
+	"lib\bcd.h"
+	"Menu.h"
+	"control.h"
+	"Sets.h"
+	"lib\KBD_3x1.h"
+	"lib/LedDin.h"
+	"lib/vPorts.h"
+	"version.h"
+	"Sets.h"
+	"lib/xitoa.h"
+
+1466008953 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\rtosa\rtosa.h
+	<avr/io.h>
+	<stdlib.h>
+	<avr/interrupt.h>
+	<util/atomic.h>
+	"types.h"
+	"../MacroSA.h"
+	"../HW_def.h"
+	"TimerCntrs.h"
+	"Debug.h"
+
+1399659555 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\rtosa\types.h
+
+1465753070 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\macrosa.h
+	<avr\builtins.h>
+
+1466009691 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\hw_def.h
+	"RTOSA/types.h"
+
+1427411781 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\rtosa\timercntrs.h
+	"..\MacroSA.h"
+
+1454882924 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\rtosa\debug.h
+
+1463862967 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\tasks.h
+	"main.h"
+
+1460832175 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\lib\adc.h
+	<avr/io.h>
+
+1466280696 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\lib\menuhal.h
+	"main.h"
+	"Sets.h"
+
+1466447382 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\\main.h
+	<h:\avr\include\stdio.h>
+	<h:\avr\include\stdlib.h>
+	<h:\avr\include\avr\eeprom.h>
+	<h:\avr\include\util\crc16.h>
+	<h:\avr\include\avr\wdt.h>
+	<h:\avr\include\string.h>
+	"RTOSA\RTOSA.h"
+	"tasks.h"
+	"HW_def.h"
+	"lib\ADC.h"
+	"lib\MenuHAL.h"
+	"lib\bcd.h"
+	"Menu.h"
+	"control.h"
+	"Sets.h"
+	"lib\KBD_3x1.h"
+	"lib/LedDin.h"
+	"lib/vPorts.h"
+	"version.h"
+	"Sets.h"
+	"lib/xitoa.h"
+
+1466008953 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\\rtosa\rtosa.h
+	<avr/io.h>
+	<stdlib.h>
+	<avr/interrupt.h>
+	<util/atomic.h>
+	"types.h"
+	"../MacroSA.h"
+	"../HW_def.h"
+	"TimerCntrs.h"
+	"Debug.h"
+
+1399659555 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\\rtosa\types.h
+
+1465753070 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\\macrosa.h
+	<avr\builtins.h>
+
+1466009691 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\\hw_def.h
+	"RTOSA/types.h"
+
+1427411781 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\\rtosa\timercntrs.h
+	"..\MacroSA.h"
+
+1454882924 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\\rtosa\debug.h
+
+1463862967 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\\tasks.h
+	"main.h"
+
+1460832175 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\\lib\adc.h
+	<avr/io.h>
+
+1466280696 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\\lib\menuhal.h
+	"main.h"
+	"Sets.h"
+
+1466256155 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\\sets.h
+	"../sets_crc16/CRC16_for_set.h "
+
+1420749241 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\\lib\bcd.h
+
+1466452313 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\\menu.h
+	"main.h"
+
+1466447391 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\\control.h
+	"main.h"
+	"lib/LedDin.h"
+
+1460295158 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\\lib\leddin.h
+	"main.h"
+
+1465588527 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\\lib\kbd_3x1.h
+
+1457344495 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\\lib\vports.h
+	<avr/io.h>
+	"MacroSA.h"
+	"RTOSA/types.h"
+	<vPorts.h>
+	<vPorts.c>
+
+1466453608 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\\version.h
+
+1433272296 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\\lib\xitoa.h
+	<inttypes.h>
+
+1420749241 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\lib\bcd.h
+
+1466452313 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\menu.h
+	"main.h"
+
+1466256155 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\sets.h
+	"../sets_crc16/CRC16_for_set.h "
+
+1465588527 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\lib\kbd_3x1.h
+
+1460295158 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\lib\leddin.h
+	"main.h"
+
+1457344495 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\lib\vports.h
+	<avr/io.h>
+	"MacroSA.h"
+	"RTOSA/types.h"
+	<vPorts.h>
+	<vPorts.c>
+
+1466453608 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\version.h
+
+1433272296 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\lib\xitoa.h
+	<inttypes.h>
+
+1459797195 source:e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\fuse_m8.c
+	<avr/io.h>
+	<avr/signature.h>
+
+1466198812 source:e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\lib\adc.c
+	"../main.h"
+	"ADC.h"
+
+1420749208 source:e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\lib\bcd.c
+	"bcd.h"
+
+1450631881 source:e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\lib\key.c
+	"Main.h"
+
+1465761060 source:e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\lib\leddin.c
+	"LedDin.h"
+	"vPorts.h"
+
+1466256607 source:e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\lib\menuhal.c
+	"MenuHAL.h"
+
+1466198812 source:e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\lib\vports.c
+	"vPorts.h"
+
+1421101453 source:e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\lib\xitoa.s
+	<avr/io.h>
+
+1466446467 source:e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\main.c
+	"main.h"
+
+1466198213 source:e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\menu.c
+	"main.h"
+
+1458584294 source:e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\rtosa\debug.c
+	"Debug.h"
+
+1466198213 source:e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\rtosa\rtosa.c
+	"RTOSA.h"
+	<RTOSA.h>
+	<RTOSA.c>
+
+1466113627 source:e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\sets.c
+	"main.h"
+	<h:\avr\include\avr\eeprom.h>
+	"Sets_c.h"
+
+1466256517 e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\sets_c.h
+	"Sets.h"
+
+1430937643 source:e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\sn.c
+
+1463862967 source:e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\tasks.c
+	"Tasks.h"
+
+1465762627 source:e:\s_alex\sa_project\teploecoresurs\ptucv2\firmware\ptucv2_fmw\lib\kbd_3x1.c
+	<avr/io.h>
+	"RTOSA\types.h"
+	"MacroSA.h"
+	"main.h"
+	"KBD_3x1.h"
+
+1466541950 source:e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\control.c
+	"control.h"
+
+1466447391 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\control.h
+	"main.h"
+	"lib/LedDin.h"
+
+1466538721 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\main.h
+	<h:\avr\include\stdio.h>
+	<h:\avr\include\stdlib.h>
+	<h:\avr\include\avr\eeprom.h>
+	<h:\avr\include\util\crc16.h>
+	<h:\avr\include\avr\wdt.h>
+	<h:\avr\include\string.h>
+	"RTOSA\RTOSA.h"
+	"tasks.h"
+	"HW_def.h"
+	"lib\ADC.h"
+	"lib\MenuHAL.h"
+	"lib\bcd.h"
+	"Menu.h"
+	"control.h"
+	"Sets.h"
+	"lib\KBD_3x1.h"
+	"lib/LedDin.h"
+	"lib/vPorts.h"
+	"version.h"
+	"Sets.h"
+	"lib/xitoa.h"
+
+1466008953 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\rtosa\rtosa.h
+	<avr/io.h>
+	<stdlib.h>
+	<avr/interrupt.h>
+	<util/atomic.h>
+	"types.h"
+	"../MacroSA.h"
+	"../HW_def.h"
+	"TimerCntrs.h"
+	"Debug.h"
+
+1399659555 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\rtosa\types.h
+
+1465753070 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\macrosa.h
+	<avr\builtins.h>
+
+1466543711 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\hw_def.h
+	"RTOSA/types.h"
+
+1427411781 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\rtosa\timercntrs.h
+	"..\MacroSA.h"
+
+1454882924 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\rtosa\debug.h
+
+1466541931 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\tasks.h
+	"main.h"
+
+1460832175 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\lib\adc.h
+	<avr/io.h>
+
+1466542425 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\lib\menuhal.h
+	"main.h"
+	"Sets.h"
+
+1466538721 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\\main.h
+	<h:\avr\include\stdio.h>
+	<h:\avr\include\stdlib.h>
+	<h:\avr\include\avr\eeprom.h>
+	<h:\avr\include\util\crc16.h>
+	<h:\avr\include\avr\wdt.h>
+	<h:\avr\include\string.h>
+	"RTOSA\RTOSA.h"
+	"tasks.h"
+	"HW_def.h"
+	"lib\ADC.h"
+	"lib\MenuHAL.h"
+	"lib\bcd.h"
+	"Menu.h"
+	"control.h"
+	"Sets.h"
+	"lib\KBD_3x1.h"
+	"lib/LedDin.h"
+	"lib/vPorts.h"
+	"version.h"
+	"Sets.h"
+	"lib/xitoa.h"
+
+1466008953 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\\rtosa\rtosa.h
+	<avr/io.h>
+	<stdlib.h>
+	<avr/interrupt.h>
+	<util/atomic.h>
+	"types.h"
+	"../MacroSA.h"
+	"../HW_def.h"
+	"TimerCntrs.h"
+	"Debug.h"
+
+1399659555 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\\rtosa\types.h
+
+1465753070 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\\macrosa.h
+	<avr\builtins.h>
+
+1466543711 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\\hw_def.h
+	"RTOSA/types.h"
+
+1427411781 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\\rtosa\timercntrs.h
+	"..\MacroSA.h"
+
+1454882924 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\\rtosa\debug.h
+
+1466541931 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\\tasks.h
+	"main.h"
+
+1460832175 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\\lib\adc.h
+	<avr/io.h>
+
+1466542425 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\\lib\menuhal.h
+	"main.h"
+	"Sets.h"
+
+1466539176 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\\sets.h
+	"../sets_crc16/CRC16_for_set.h "
+
+1420749241 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\\lib\bcd.h
+
+1466452313 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\\menu.h
+	"main.h"
+
+1466447391 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\\control.h
+	"main.h"
+	"lib/LedDin.h"
+
+1466540830 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\\lib\leddin.h
+	"main.h"
+
+1466543812 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\\lib\kbd_3x1.h
+
+1457344495 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\\lib\vports.h
+	<avr/io.h>
+	"MacroSA.h"
+	"RTOSA/types.h"
+	<vPorts.h>
+	<vPorts.c>
+
+1466544173 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\\version.h
+
+1433272296 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\\lib\xitoa.h
+	<inttypes.h>
+
+1420749241 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\lib\bcd.h
+
+1466452313 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\menu.h
+	"main.h"
+
+1466539176 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\sets.h
+	"../sets_crc16/CRC16_for_set.h "
+
+1466543812 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\lib\kbd_3x1.h
+
+1466540830 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\lib\leddin.h
+	"main.h"
+
+1457344495 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\lib\vports.h
+	<avr/io.h>
+	"MacroSA.h"
+	"RTOSA/types.h"
+	<vPorts.h>
+	<vPorts.c>
+
+1466544173 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\version.h
+
+1433272296 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\lib\xitoa.h
+	<inttypes.h>
+
+1459797195 source:e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\fuse_m8.c
+	<avr/io.h>
+	<avr/signature.h>
+
+1466198812 source:e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\lib\adc.c
+	"../main.h"
+	"ADC.h"
+
+1420749208 source:e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\lib\bcd.c
+	"bcd.h"
+
+1466544173 source:e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\lib\kbd_3x1.c
+	<avr/io.h>
+	"RTOSA\types.h"
+	"MacroSA.h"
+	"main.h"
+	"KBD_3x1.h"
+
+1465761060 source:e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\lib\leddin.c
+	"LedDin.h"
+	"vPorts.h"
+
+1466542628 source:e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\lib\menuhal.c
+	"MenuHAL.h"
+
+1466198812 source:e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\lib\vports.c
+	"vPorts.h"
+
+1421101453 source:e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\lib\xitoa.s
+	<avr/io.h>
+
+1466538199 source:e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\main.c
+	"main.h"
+
+1466541725 source:e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\menu.c
+	"main.h"
+
+1458584294 source:e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\rtosa\debug.c
+	"Debug.h"
+
+1466198213 source:e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\rtosa\rtosa.c
+	"RTOSA.h"
+	<RTOSA.h>
+	<RTOSA.c>
+
+1466113627 source:e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\sets.c
+	"main.h"
+	<h:\avr\include\avr\eeprom.h>
+	"Sets_c.h"
+
+1466539176 e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\sets_c.h
+	"Sets.h"
+
+1430937643 source:e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\sn.c
+
+1466541931 source:e:\s_alex\sa_project\teploecoresurs\ptucv3\firmware\ptucv3_fmw\tasks.c
+	"Tasks.h"
+
